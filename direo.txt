@@ -1,0 +1,552 @@
+Direo
+
+
+-- 15.07.2021 (Version 2.7)
+=======================
+--Fixed compatibility issue with Directorist latest version.
+--Fixed widget CSS issue
+--Fixed listing count issue in categories & locations section.
+--Added template file for listings with map
+--Added support for Directorist latest version
+--Updated Directorist Business Hours extension
+--Updated Directorist Claim Listing extension
+--Updated Directorist Google reCAPTCHA extension
+--Updated Directorist Pricing Plans extension
+--Updated Directorist WooCommerce Pricing Plans extension
+
+-- 06.05.2021 ( Version 2.6 )
+======================
+--Fixed search form style issue
+--Fixed compatibility issue with Directorist
+--Fixed claim listing issue
+--Improved demo data
+--Updated Booking & Pricing Plan Extension
+
+-- 11.04.2021 ( Version 2.5 )
+======================
+--Fixed search form style issue
+--Fixed color changing issue
+--Fixed responsive issue
+--Fixed compatibility issue with Directorist
+--Fixed email field required issue on registration modal
+--Improved style
+
+-- 18.03.2021 (Version 2.4)
+=======================
+--Fixed search form issue
+--Fixed responsive issue
+--Fixed plugin integration issue
+--Improved style
+
+-- 05.03.2021 (Version 2.3)
+=======================
+-- Style improved
+-- Pricing plan plugin updated
+
+-- 01.03.2021 (Version 2.2)
+=======================
+-- Directorist 7.0 support
+
+-- 23.12.2020 (Version 2.1)
+=======================
+-- Added support for new version of Directorist
+-- Fixed business hour issue
+-- Fixed booking section hide/show and booking button issue
+-- Fixed Woocommerce Pricing Plan issue
+-- Fixed FAQ styling issue
+-- Fixed Stripe payment issue
+-- Fixed live chat style issue
+-- Improved pricing plan & woocommerce pricing plan
+-- Improved CSS styling issue
+
+-- 17.12.2020 (Version 2.0.2)
+=======================
+-- Added support for new version of Directorist
+-- Fixed Woocommerce Pricing Plan issue
+-- Fixed Stripe payment issue
+
+-- 15.12.2020  (Version 2.0.1)
+=======================
+-- Added support for new version of stripe 
+-- Fixed php error
+-- Fixed menu area issue
+-- Fixed single category widget issue
+-- Fixed styling issue
+-- Fixed style broken issue
+-- Fixed business hour error
+
+-- 05.12.2020  (Version 2.0.0)
+=======================
+-- Added two new home page
+-- Added menu type changing option
+-- Added booking payment system
+-- Added two new menu style
+-- Fixed plugin activation issue
+-- Fixed style broken issue
+-- Improved and optimize code
+-- Clean up markup and optimize speed
+
+-- 13.10.2020  (Version 1.10.6)
+=======================
+-- Fixed style broken issue
+-- Improved and optimize code
+-- Added support for latest version of Directorist
+
+-- 12.08.2020  (Version 1.10.5)
+======================
+-- Added WordPress 5.5 compatibility
+-- Added Terms & Conditions check box on Register modal
+-- Added One Click Demo Import plugin support
+-- Fixed Live Chat issue
+-- Fixed some style related issue
+-- Improved booking system
+-- Improved and optimized code
+
+-- 17.07.2020  (Version 1.10.4)
+======================
+-- Added booking in the single template and booking shortcode 
+-- Added option to customize title's placeholder of add listing form 
+-- Added Pay Now link for non paid listings of the user dashboard page 
+-- Fixed Time picker issue 
+-- Fixed Event ticket button issue 
+-- Fixed Listings and categories hiding issues 
+-- Fixed Style issue 
+-- Fixed Wrong order data in the user dashboard page 
+-- Fixed Listings sorting issue of single tag and category page 
+-- Fixed Listings count issue of the user dashboard page 
+-- Fixed Add listing form issue with need posting 
+-- Fixed Tag widget issue 
+-- Fixed Listing expiration issue 
+-- Fixed Plan page skipping issue if the user has multiple active packages 
+-- Fixed Admin data displaying issue 
+-- Improved  Page loading performance  
+-- Improved File structure 
+-- Improved menu area 
+-- Improved styles 
+
+-- 4.07.2020  (Version 1.10.3)
+======================
+-- Added sticky menu
+-- Fixed business hours issue
+-- Fixed featured listing issue on listings with map
+-- Fixed Image Issue on Map View
+-- Fixed query Issue in Search Result
+-- Fixed one-time token issue of renewal listing link
+-- Fixed popular badge issue
+-- Improved User Dashboard
+-- Improved placeholder of 'Time From' and 'Time To' fields
+-- Improved menu area
+-- Improved styling 
+
+-- 11.06.2020  (Version 1.10.2)
+========================
+-- Fixed plan changing issue
+-- Fixed pricing plan related issue
+-- Improved demo content
+-- Improved code
+-- Improved design
+
+-- 04.06.2020  (Version 1.10.1)
+========================
+-- Fixed plan changing issue
+-- Fixed blog search and grid view issue of archive page 
+-- Fixed PHP error in Direo Core plugin
+-- Fixed style related issue  of booking
+-- Fixed Plan upgrade, downgrade and renewal issues
+-- Fixed chat's style issue in Dashboard
+-- Fixed plugin installation issue
+-- Improved code
+-- Improved demo content
+
+-- 09.05.2020  (Version 1.10.0)
+========================
+-- Added Booking feature
+-- Added Live Chat feature
+-- Fixed popular badge issue
+-- Fixed RTL issue
+-- Fixed child theme RTL issue
+-- Improved code
+
+-- 09.05.2020  (Version 1.9.3)
+========================
+-- Fixed 404 error
+-- Improved demo content
+-- Fixed some CSS issue
+-- Fixed Elementor widget category, tag, and location issue  
+-- Improved dashboard responsiveness and markup.  
+
+-- 14.04.2020  (Version 1.9.2)
+========================
+- Fixed icon issue
+- Improved demo importer system
+- Improved demo content
+- Fixed plan changing issue
+- Fixed style related issues
+- Added support of latest version of PHP
+- Fixed thumbnail issue of list view 
+- Improved Elementor widgets
+- Improved code
+
+-- 30.03.2020  (Version 1.9.1)
+========================
+- Fixed naming issue
+- Fixed responsive issue of Menu area
+- Improved Code
+
+-- 29.03.2020  (Version 1.9.0)
+========================
+- Added Elementor Page Builder Support
+- Added Post Your Need extension support
+- Fixed Blog Search result issue
+- Fixed design issues
+- Fixed Dashboard logo issue.
+- Fixed quick login/registration issue on mobile view
+
+-- 26.02.2020  (Version 1.8.1)
+========================
+- Fixed design issues
+- Improved responsiveness 
+- Improved code
+
+-- 20.02.2020  (Version 1.8.0)
+========================
+- Added new dashboard
+- Added new option to set a global menu style for single listing and single post
+- Fixed single listing and location title issue
+- Fixed some styling issue
+- Fixed some responsive issue
+
+-- 13.02.2020  (Version 1.7.2)
+========================
+- Improved design 
+- Improved responsiveness
+
+-- 12.02.2020  (Version 1.7.1)
+========================
+- Improved search form and responsiveness 
+- Optimized code
+- Fixed single category, location and tag page title issue
+- Added map icon on search form's location field
+- Fixed design issue
+
+-- 10.02.2020  (Version 1.7.0)
+========================
+- Added compatibility of  Directorist plugin's new major update. 
+
+-- 08.02.2020  (Version 1.6.3)
+========================
+- Fixed design issue after importing demo
+- Improved demo content 
+- Improved social login
+- Improved & Optimized code 
+
+-- 15.01.2020  (Version 1.6.2)
+========================
+-- Fixed listing view count on/off issue
+-- Fixed categories listing count on/off issue
+-- Fixed categories styling issue
+-- Improved demo importing option
+-- Improved search form element
+-- Improved and optimize code
+
+-- 23.11.2019  (Version 1.6.1)
+========================
+--  Fixed OpenStreetMap map issue of ‘no listing found’
+--  Fixed tag issue of search
+--  Fixed map icon issue
+--  Fixed Radius search issue
+--  Fixed category widget dropdown issue
+--  Fixed location widget dropdown issue
+--  Fixed listing renewal issue
+--  Fixed tag issue of listing form
+--  Fixed Listing’s status conflict with monetization
+-- Improved function naming
+-- Improved tags field
+-- Made OpenStreetMap map’s marker draggable
+-- Improved user login authentication process
+-- Added option to add custom link in Add Listing button
+-- Added option to submit review without login
+
+
+-- 12.11.2019  (Version 1.6.0)
+========================
+-- Added sidebar for Shop page 
+-- Improved code
+
+-- 07.11.2019  (Version 1.5.7)
+========================
+-- Added loading animation when click on grid/list view of Listings with map 
+-- Improved Direo Core plugin 
+-- Improved Code of the theme 
+-- Fixed style related issues 
+-- Fixed Direo Extension plugin's issue
+
+-- 06.11.2019  (Version 1.5.6)
+========================
+-- Fixed price range issue of Search element
+-- Fixed a conflict between Direo Core and Directorist plugins
+
+-- 06.11.2019  (Version 1.5.5)
+========================
+-- Added option to select Kilometers or Miles for Radius Search 
+-- Added option of default Radius Distance 
+-- Fixed login error message issue 
+-- Fixed listing publish before checking out 
+-- Fixed decimal issue of listing form 
+-- Fixed radius search of search result 
+-- Fixed OpenStreetMap map issue 
+-- Fixed View Count issue of user’s listing adding form 
+-- Fixed OpenStreetMap map conflict with Rank Math SEO Plugin 
+-- Fixed pagination issue 
+-- Fixed design issues 
+-- Fixed form fields settings issue 
+-- Fixed free plan issue 
+-- Fixed plan assign issue from admin area 
+-- Improved header title of Search Result page
+
+-- 30.10.2019  (Version 1.5.4)
+========================
+-- Fixed plan assigning issue before approving claim 
+-- Added option to skip plan page for paid users 
+-- Added pending listing count in a package 
+-- Improved social login button style 
+-- Fixed Google login issue
+
+-- 26.10.2019  (Version 1.5.3)
+========================
+-- Fixed free listing plan issue 
+-- Fixed styling issue of single listing page 
+-- Fixed styling issue of social login
+
+-- 24.10.2019  (Version 1.5.2)
+========================
+-- Fixed search fields styling issue 
+-- Fixed location search field's API issue 
+-- Fixed custom field with category issue
+-- Fixed required issues of search fields
+-- Fixed decimals issue of listing’s price
+-- Fixed radius search conflicts with rating filter
+-- Fixed current location issue of OpenStreetMap
+-- Fixed autosuggestion issue
+-- Improved Google Map
+-- Improved OpenStreetMap map
+-- Added Add to Favorite feature on listings page 
+-- Added category icon in OpenStreetMap
+-- Added new elements: Listings With Map, Search Result Map View, Single Location Map View, Single Location, Single Category, Single Category Map View, Single Tag, Single Tag Map View, Dashboard, Payment Receipt, Checkout, Transaction Failure, Author Profile, Login Form, Registration Form.
+
+-- 19.09.2019  (Version 1.5.1)
+========================
+-- Fixed login modal issue on login page 
+-- Fixed social login issue 
+-- Improved code
+
+-- 17.09.2019  (Version 1.5.0)
+========================
+-- Added social login (Facebook and Gmail)
+-- Added radius search
+-- Added listing Bookmark/Mark as Favourite on listings page
+-- Added address finder in location search field
+-- Added custom Map Marker
+-- Added category icon in Map Marker
+-- Added auto suggestions in location search field (if choose to display from Map API)
+-- Added option to remove single listing’s address link
+-- Added option to show published date on listings page
+-- Added option to add listing’s email and website url on listings page
+-- Added option to customize Map info window of single listing page
+-- Added opeNStreetMap/Google map zooming issue
+-- Added Published date issue on listings page
+-- Added new option for changing login and register button text
+-- Added quick login/reg button on/off option
+-- Added quick login/registration button’s custom Url option
+-- Fixed pricing plan responsive issue
+-- Fixed add listing button URL issue
+-- Fixed ‘Remember Me’ of login form
+-- Fixed Map info window of single listing page
+-- Fixed Header title issue of search result page
+-- Fixed Extra space issue of excerpt field
+-- Fixed Currency Symbol issue
+-- Fixed Translation issues
+-- Fixed Style issues
+--  Improved Settings Panel
+--  Improved Social Media icons of single listing page
+--  Improved Listings page header title
+-- Improved User Role
+-- Removed ‘Google+’ from social media links
+
+-- 22.09.2019  (Version 1.4.1)
+========================
+-- Fixed translation issue
+-- Improved code
+
+-- 20.09.2019  (Version 1.4.0)
+========================
+-- Improved login popup 
+-- Fixed listing category duplicating issue 
+-- Improved button element 
+-- Fixed breadcrumb issue of archive page 
+-- Fixed Listing renew plan issue 
+-- Updated Stripe SDK library 
+-- Added 3D Secure payments compatibility and Strong Customer Authentication (SCA) Compliant of Stripe 
+-- Fixed styling issue
+
+-- 11.09.2019  (Version 1.3.6)
+========================
+-- Fixed currency formatting issue in Pricing Plan page
+-- Added columns customization of Pricing Plan page
+-- Improved All Listings element
+-- Fixed user image uploading issue
+-- Fixed PayPal and Stripe issues
+
+-- 3.09.2019  (Version 1.3.5)
+========================
+-- Fixed review on/off issue 
+-- Improved search field 
+-- Fixed popular badge on/off issue
+
+-- 31.08.2019  (Version 1.3.4)
+========================
+-- Fixed FAQ issue 
+-- Fixed styling issues
+-- Fixed responsive issue
+-- Fixed location element issue
+
+-- 28.08.2019  (Version 1.3.3)
+========================
+-- Fixed bulk edit issue
+-- Improved responsiveness 
+-- Fixed FAQ issue
+-- Improved demo content 
+-- Made some untranslatable strings translatable
+
+-- 24.08.2019  (Version 1.3.2)
+========================
+-- Improved user registration form
+-- Improve confirmation email
+-- Fix new user registration email
+-- Improved demo content
+-- Improved translation 
+
+-- 22.08.2019  (Version 1.3.1)
+========================
+-- Fixed responsive issue 
+-- Improved code 
+-- Improved RTL
+
+-- 20.08.2019  (Version 1.3.0)
+========================
+-- New Elements: Blog,  Listing Carousel, Search Field, Pricing Plans
+-- Added dark version of Footer 
+-- Added support of video background for elements
+-- Added logo uploading option for light background
+-- Added another style for feature box
+-- Added another style for category element
+--  Fixed Lazy Load issue
+-- Fixed header style changing issue
+
+-- 17.08.2019  (Version 1.2.7)
+========================
+-- Fixed password reset issue 
+-- Improved All Listings element 
+-- Improved page header search box
+-- Improved listing cart view & grid view
+-- Fixed sort by popular listings issues
+
+-- 15.08.2019  (Version 1.2.6)
+========================
+-- Fixed Search box styling issue
+-- Fixed sort by Poplular listings 
+-- Removed "Not Now" button from checkout page
+-- Email sender name for recovery password
+
+-- 14.08.2019  (Version 1.2.5)
+========================
+-- Fixed Custom Field's checkbox issue
+-- Fixed logo cropping issue 
+-- Fixed translation issue
+-- Listing count issue
+--  Fixed plan active badge issue
+-- Update pot file
+
+-- 08.08.2019  (Version 1.2.4)
+========================
+-- Fixed menu style changing issue of shop page
+-- Fixed blog page banner issue 
+-- Fixed shop page banner issue
+-- Fixed header banner issue
+-- Fixed recovery password issue
+-- Added blog page width control feature
+-- Added single blog page width control feature
+-- Improved front page code
+-- Update pot file
+
+-- 31.07.2019  (Version 1.2.3)
+========================
+-- Added map height controlling option 
+-- Improved header logo area 
+-- Fixed single blog header image issue 
+-- Fixed page menu style changing issue
+-- Added single product's header image uploading option
+-- Improved translation
+
+-- 25.07.2019  (Version 1.2.1)
+========================
+-- Fixed single category title issue 
+-- Fixed page Header Banner Option issue 
+-- Added header Add Listing button text changing option 
+-- Fixed a minor issue of review 
+-- Improved FAQ design 
+
+-- 24.07.2019  (Version 1.2.0)
+========================
+-- Added option to upload single listing header image 
+-- Added WordPress editor support for FAQ 
+
+-- 19.07.2019  (Version 1.1.5)
+========================
+-- Fixed page feature image issue 
+-- Fixed category issue
+-- Improved code
+
+-- 17.07.2019  (Version 1.1.4)
+========================
+-- Added multi locations and categories support for users
+-- Added shortcode parameters to make content private/logged in user only
+-- Added shortcode parameter to forward/redirect a page to another page
+-- Option to make Search fields required
+-- Added admin email notification when someone submits a review
+-- Improved color settings
+-- Improved code of Popular and Latest listings widgets
+-- Fixed  the issue of duplication on single listing page
+-- Improved user dashboard
+-- Fixed list view container issue
+
+-- 14.07.2019  (Version 1.1.3)
+========================
+-- Improved code on several places and fixed some minor issues. 
+-- Fixed single listing’s section duplication issue.
+-- Improved translation.
+
+-- 12.07.2019  (Version 1.1.2)
+========================
+-- Added Dark header for listings 
+
+-- 11.07.2019  (Version 1.1.1)
+========================
+-- Fixed translation issue 
+-- Improved Direo Core and Direo Extension plugins 
+-- Improved code of listing details page 
+-- Improved registration email
+
+-- 10.07.2019  (Version 1.1.0)
+========================
+-- Added Dark header 
+-- Fixed translation issue
+-- Fixed registration issue 
+-- Fixed Pricing Plan & WooCommerce Pricing Plan issues 
+-- Fixed the page break issue when disable Claim listing 
+-- Fixed Report button issue 
+-- Redirect user to User Dashboard after login
+
+-- 09.07.2019  (Version 1.0.1)
+========================
+-- Fixed minor styling related issues.
