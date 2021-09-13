@@ -1,0 +1,165 @@
+dList
+
+
+Version 1.15, September 1, 2021
+
+Fixed single listing gallery issue of new directory type
+Fixed listing count issue in category & location section grid view
+Fixed style issue of compare listing extension
+Fixed responsive issue of listings with map
+Fixed kingComposser search form styling issue
+Fixed review disable issue in dashboard & listings card
+Fixed RTL styling issue
+Added description field for single listing page
+Added support of listings with map latest version
+Added a new page template (Listings With Map) for fixing the listings with map style issue
+
+Version 1.14, July 15, 2021
+
+Fixed compatibility issue with Directorist latest version.
+Fixed listing count issue in categories & locations section.
+Fixed some CSS issue
+
+Version 1.12, April 05, 2021
+
+Fixed search form style issue
+Fixed color changing issue
+Fixed responsive issue
+Fixed compatibility issues with Directorist
+Improved style
+
+Version 1.11, March 23, 2021
+
+Fixed search form issue
+Fixed color changing issue
+Fixed responsive issue
+Fixed compatibility issue with Directorist
+Style improved
+
+Version 1.10, March 9, 2021
+
+Style improved
+Pricing plan updated version support added
+Directorist 7.0.1 support added
+Fixed Breadcrumb search form issue
+
+Version 1.9, March 1, 2021
+
+Directorist 7.0 support added
+
+Version 1.8, December 23, 2020
+
+Added support for new version of Directorist
+Fixed business hour issue
+Fixed booking section hide/show and booking button issue
+Fixed Woocommerce Pricing Plan issue
+Fixed FAQ styling issue
+Fixed Stripe payment issue
+Fixed live chat style issue
+Improved pricing plan & woocommerce pricing plan
+Improved CSS styling issue
+
+Version 1.7.9, December 17, 2020
+
+Added support for new version of Directorist
+Fixed Woocommerce Pricing Plan issue
+Fixed Stripe payment issue
+
+Version 1.7.8, December 15, 2020
+
+Added menu type changing option
+Added support for new version of stripe
+Fixed plugin activation issue
+Fixed style broken issue
+Fixed live chat style issue
+Fixed php error
+Fixed business hour error
+Improved and optimize code
+Clean up markup and optimize speed
+
+Version 1.7.7, October 08, 2020
+
+Fixed licensing issue
+Fixed CSS issue
+Improved code
+
+Version 1.7.6, August 21, 2020
+
+Fixed booking issue
+Fixed banner area default color issue
+
+Version 1.7.5, August 12, 2020
+
+Added WordPress 5.5 compatibility
+Added Directorist 6.5.2 compatibility
+Added Terms & Conditions check box on Register modal
+Added One Click Demo Import plugin support
+Fixed Live Chat issue
+Fixed some style related issue
+Improved booking system
+Improved and optimized code
+
+Version 1.7.4, July 22, 2020
+
+Fixed plugin updating issue
+Improved and optimize code
+
+Version 1.7.3, July 17, 2020
+
+Added booking in the single template and booking shortcode
+Added option to customize title's placeholder of add listing form
+Added Pay Now link for non paid listings of the user dashboard page
+Fixed Time picker issue
+Fixed Event ticket button issue
+Fixed Listings and categories hiding issues
+Fixed Style issue
+Fixed Wrong order data in the user dashboard page
+Fixed Listings sorting issue of single tag and category page
+Fixed Listings count issue of the user dashboard page
+Fixed Add listing form issue with need posting
+Fixed Tag widget issue
+Fixed Listing expiration issue
+Fixed Plan page skipping issue if the user has multiple active packages
+Fixed Admin data displaying issue
+Improved Page loading performance
+Improved File structure
+Improved menu area
+Improved styles
+
+Version 1.7.2, July 4, 2020
+
+Added sticky menu
+Fixed business hours issue
+Fixed featured listing issue on listings with map
+Fixed Image Issue on Map View
+Fixed query Issue in Search Result
+Fixed popular badge issue
+Fixed one-time token issue of renewal listing link
+Improved User Dashboard
+Improved placeholder of 'Time From' and 'Time To' fields
+Improved menu area
+Improved styling
+
+Version 1.7.1, June 12, 2020
+
+Fixed plan changing issue
+Fixed Pricing plan related issue
+Improved Pricing plan
+Improved demo content
+Improved code
+Improved design
+
+Version 1.7.0, June 5, 2020
+
+Added Booking feature
+Added Live Chat feature
+Fixed plan changing issue
+Fixed blog search and grid view issue of the archive page
+Fixed PHP error in Direo Core plugin
+Fixed Plan upgrade, downgrade and renewal issues
+Fixed plugin installation issue
+Fixed popular badge issue
+Fixed RTL issue
+Fixed RTL issue of child theme
+Improved demo content
+Improved code
