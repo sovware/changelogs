@@ -1,5 +1,25 @@
-Direo
+Direo WordPress Theme
+=========================
 
+
+-- 13.09.2021 ( Version 2.8 )
+======================
+--Fixed RTL styling issue.
+--Fixed contact modal issue.
+--Fixed global color changing issue.
+--Fixed listings review on/off issue.
+--Fixed single listing gallery issue.
+--Fixed style issue of compare listing extension.
+--Fixed email validation issue in registration modal.
+--Fixed widgets (Tags) broken issue in single listing
+--Fixed review disable issue in dashboard & listings card
+--Fixed listing count issue in category & location section grid view.
+--Improved sponsor widget core.
+--Improved single listing claim in mobile view.
+--Added support of Directorist latest version.
+--Added description field for single listing page.
+--Added support of listings with map latest version.
+--Added a new page template (Listings With Map) for fixing the listings with map style issue.
 
 -- 15.07.2021 (Version 2.7)
 =======================
