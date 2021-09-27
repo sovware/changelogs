@@ -1,0 +1,76 @@
+dService
+-- 27.09.2021 ( Version 1.12 )
+======================
+--Fixed password changing issue.
+--Fixed fatal error issue.
+
+Version 1.11, September 1, 2021
+
+Fixed contact modal issue
+Fixed CSS issue
+Fixed dashboard review on/off issue
+Fixed email validation issue in registration modal
+Fixed listings card view review on/off issue
+Fixed sponsor listing count issue
+Fixed CSS issue on single listing tag widget
+Fixed responsive issue of listings with map and dashboard
+Fixed RTL styling issue
+Added support of Listings With Map updated version
+Added a new page template (Listings With Map) for fixing the listings with map style issue
+
+Version 1.10, July 15, 2021
+
+Fixed compatibility issue with Directorist latest version
+Fixed some CSS issue
+Fixed listing count issue in categories & locations section
+Fixed single listing field issue
+
+Version 1.9, April 14, 2021
+
+Fixed search form style issue
+Fixed color changing issue
+Fixed responsive issue
+Fixed compatibility issue with Directorist
+Fixed email field required issue on registration modal
+Improved style
+
+Version 1.8, march 18, 2021
+
+Fixed search form issue
+Fixed responsive issue
+Style improved
+
+Version 1.7, march 7, 2021
+
+Style improved
+Pricing plan plugin updated
+Added support for Directorist latest version
+
+Version 1.6, march 1, 2021
+
+Directorist 7.0 compatibility added
+
+Version 1.5, January 11, 2021
+
+Added support for the new version of Directorist
+Added support for the Elementor Pro
+Fixed Post Your Need issue
+Fixed business hour issue
+Fixed booking section hide/show and booking button issue
+Fixed WooCommerce Pricing Plan issue
+Fixed FAQ styling issue
+Fixed Stripe payment issue
+Fixed CSS styling issue
+Improved CSS styling issue
+
+Version 1.4.2, October 20, 2020
+
+Fixed Post Your Need extension issue
+Added widget area disabling feature
+Improved and optimized code
+
+Version 1.4.1, October 8, 2020
+
+Fixed licensing issue
+Fixed CSS issue
+Overall code improved
