@@ -1,9 +1,13 @@
 Direo WordPress Theme
 =========================
 
+-- 27.09.2021 ( Version 2.9 )
+==============================
+--Fixed password changing issue.
+--Fixed fatal error issue.
 
 -- 13.09.2021 ( Version 2.8 )
-======================
+==============================
 --Fixed RTL styling issue.
 --Fixed contact modal issue.
 --Fixed global color changing issue.

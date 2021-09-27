@@ -1,6 +1,10 @@
 dList WordPress Theme
 =========================
 
+-- 27.09.2021 ( Version 1.17 )
+==============================
+--Fixed password changing issue.
+--Fixed fatal error issue.
 
 -- 13.09.2021 ( Version 1.16 )
 ==============================
