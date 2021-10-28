@@ -1,6 +1,12 @@
 Direo WordPress Theme
 =========================
 
+-- 26.10.2021 ( Version 2.10 )
+==============================
+--Added support Directorist latest version
+--Improved search form
+--Fixed some CSS issue
+
 -- 27.09.2021 ( Version 2.9 )
 ==============================
 --Fixed password changing issue.
