@@ -1,5 +1,19 @@
 dLawyers
+-- 10.10.2021 ( Version 1.2 )
+=============================
+--Added support Directorist latest version
+--Improved search form
 
+-- 29.09.2021 ( Version 1.1 )
+=============================
+-- Fixed Filter Button Issue
+-- Fixed Child Theme Issue
+-- Fixed Dashboard Navigations Issues
+-- Fixed Duplicate ID issue fixed for Search Age widget
+-- Rating Markup Update for Listing Archive
+-- Remove the core map wdget from Single Listing Page
+-- Listing with Map style Update
+-- Improved Theme Options
 
 -- 06.09.2021 ( Version 1.0 )
 =============================
