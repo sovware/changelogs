@@ -1,8 +1,4 @@
 dLawyers
--- 10.10.2021 ( Version 1.2 )
-=============================
---Added support Directorist latest version
---Improved search form
 
 -- 29.09.2021 ( Version 1.1 )
 =============================
