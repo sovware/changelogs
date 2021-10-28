@@ -1,6 +1,11 @@
 dService WordPress Theme
 =========================
 
+(Version 1.13, October 25, 2021)
+==============================
+--Added support Directorist latest version
+--Improved banner area search form
+
 (Version 1.12, September 27, 2021)
 ==============================
 --Fixed password changing issue.
