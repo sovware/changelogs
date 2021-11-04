@@ -1,4 +1,15 @@
-dLawyers
+dLawyers WordPress Theme
+=========================
+
+-- 04.11.2021 ( Version 1.3 )
+=============================
+--Added support Directorist Pricing Plan latest version
+--Fixed some CSS issue
+
+-- 10.10.2021 ( Version 1.2 )
+=============================
+--Added support Directorist latest version
+--Improved search form
 
 -- 29.09.2021 ( Version 1.1 )
 =============================
