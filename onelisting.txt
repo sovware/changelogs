@@ -1,0 +1,6 @@
+OneListing WordPress Theme
+==========================
+
+-- 07.11.2021 ( Version 1.0 )
+=============================
+-- Initial release
