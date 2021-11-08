@@ -1,0 +1,6 @@
+dDoctors WordPress Theme
+==========================
+
+-- Nov 9, 2021 ( Version 1.0 )
+=============================
+-- Initial release
