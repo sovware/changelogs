@@ -1,6 +1,13 @@
 OneListing WordPress Theme
 ==========================
 
+-- 11.11.2021 ( Version 1.1 )
+=============================
+-- Fixed Radius Search
+-- Fixed CSS Issues
+-- Improved Contact Info Sidebar Widget
+-- Added support for Directorist latest version
+
 -- 07.11.2021 ( Version 1.0 )
 =============================
 -- Initial release
