@@ -1,0 +1,6 @@
+dPlace WordPress Theme
+==========================
+
+-- Nov 16, 2021 (Version 1.0)
+=============================
+-- Initial release
