@@ -1,6 +1,10 @@
 OneListing WordPress Theme
 ==========================
 
+-- Nov 16, 2021 ( Version 1.2 )
+=============================
+-- Fix: Login/Registration compatibility with directorist v7.0.6.2
+
 -- 11.11.2021 ( Version 1.1 )
 =============================
 -- Fixed Radius Search
