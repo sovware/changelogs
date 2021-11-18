@@ -1,6 +1,10 @@
 dPlace WordPress Theme
 ==========================
 
+<<<<<<< HEAD
 -- 16.11.2021 ( Version 1.0 )
+=======
+-- Nov 16, 2021 (Version 1.0)
+>>>>>>> 62c99591320125a4816a2bac6bd92831d5f7bc50
 =============================
 -- Initial release
