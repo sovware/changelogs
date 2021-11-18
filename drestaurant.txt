@@ -1,0 +1,6 @@
+dRestaurant WordPress Theme
+==========================
+
+-- 18.11.2021 ( Version 1.0 )
+=============================
+-- Initial release
