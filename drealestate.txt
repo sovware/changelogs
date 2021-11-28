@@ -1,0 +1,6 @@
+dRealEstate WordPress Theme
+==========================
+
+-- 28.11.2021 ( Version 1.0 )
+=============================
+-- Initial release
