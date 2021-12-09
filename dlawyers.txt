@@ -1,6 +1,12 @@
 dLawyers WordPress Theme
 =========================
 
+-- Dec 9, 2021 ( Version 1.5 )
+=============================
+-- Added support Directorist latest version
+-- Fix: Elementor All Listings Image issue
+-- Fix - Style issues
+
 -- Nov 16, 2021 ( Version 1.4 )
 =============================
 -- Fix: Login/Registration compatibility with directorist v7.0.6.2
