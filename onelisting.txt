@@ -1,6 +1,14 @@
 OneListing WordPress Theme
 ==========================
 
+-- Dec 23, 2021 ( Version 1.4 )
+=============================
+-- Added support Directorist Booking latest version
+-- Fix: Single Location Box Count issue
+-- Title tag update for Single Listing h2 to h1
+-- Improved Styles
+-- Fix main menu
+
 -- Dec 09, 2021 ( Version 1.3 )
 ===============================
 -- Added support Directorist latest version
