@@ -1,11 +1,16 @@
 dRealEstate WordPress Theme
 ==========================
 
--- 09.12.2021 ( Version 1.1 )
+-- Dec 30, 2021 ( Version 1.2 )
+=============================
+-- Added support Directorist Booking latest version
+-- Added support Directorist latest version
+
+-- Dec 09, 2021 ( Version 1.1 )
 =============================
 -- Added support Directorist latest version
 -- Fix - Style issues
 
--- 28.11.2021 ( Version 1.0 )
+-- Nov 28, 2021 ( Version 1.0 )
 =============================
 -- Initial release

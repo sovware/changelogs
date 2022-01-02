@@ -1,6 +1,10 @@
 OneListing WordPress Theme
 ==========================
 
+-- Dec 30, 2021 ( Version 1.5 )
+=============================
+-- Added support Directorist latest version
+
 -- Dec 23, 2021 ( Version 1.4 )
 =============================
 -- Added support Directorist Booking latest version

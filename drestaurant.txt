@@ -1,14 +1,19 @@
 dRestaurant WordPress Theme
-==========================
+===========================
 
--- 25.11.2021 ( Version 1.1 )
-==============================
+-- Dec 30, 2021 ( Version 1.2 )
+===============================
+-- Added support Directorist Booking latest version
+-- Added support Directorist latest version
+
+-- Nov 25, 2021 ( Version 1.1 )
+===============================
 -- Fixed logo area 
 -- Single Listing: Report Issue Fixed
 -- Single Listing Bookmark Markup Update
 -- Fixed some CSS issue
 
 
--- 18.11.2021 ( Version 1.0 )
-=============================
+-- Nov 18, 2021 ( Version 1.0 )
+==============================
 -- Initial release

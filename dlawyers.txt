@@ -1,6 +1,12 @@
 dLawyers WordPress Theme
 =========================
 
+-- Dec 30, 2021 ( Version 1.6 )
+=============================
+-- Added support Directorist Booking latest version
+-- Improved Styles
+-- Added support Directorist latest version
+
 -- Dec 9, 2021 ( Version 1.5 )
 =============================
 -- Added support Directorist latest version

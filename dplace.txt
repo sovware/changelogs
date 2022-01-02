@@ -1,6 +1,15 @@
 dPlace WordPress Theme
 ==========================
 
+-- Dec 30, 2021 (Version 1.1)
+=============================
+-- Added support Directorist latest version
+-- Added support Directorist Booking latest version
+-- Fix: Listing With Map issue
+-- Fix: Add Listing Type Issue
+-- Fix: Elementor All Listings Image issue
+-- Added support Directorist latest version
+
 -- Nov 16, 2021 (Version 1.0)
 =============================
 -- Initial release
