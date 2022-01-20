@@ -1,6 +1,12 @@
 dLawyers WordPress Theme
 =========================
 
+-- Jan 20, 2022 ( Version 1.7 )
+=============================
+-- Fix: Contact Popup
+-- Added support Directorist latest version
+-- Improved Styles
+
 -- Dec 30, 2021 ( Version 1.6 )
 =============================
 -- Added support Directorist Booking latest version
