@@ -1,0 +1,6 @@
+dCar WordPress Theme
+==========================
+
+-- jan 24, 2022 (Version 1.0)
+=============================
+-- Initial release
