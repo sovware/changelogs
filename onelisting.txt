@@ -1,5 +1,14 @@
 OneListing WordPress Theme
 ==========================
+-- Feb 17, 2022 ( Version 1.7 )
+=============================
+-- Fixed selec2 position
+-- Updated CSF framework
+-- Fixed font-family issue
+-- Fixed elementor column issue
+-- Fixed scroll issue
+-- Fixed directory types issue for AJAX
+-- Fixed popup search & add listing form issue
 
 -- Jan 20, 2022 ( Version 1.6 )
 =============================
