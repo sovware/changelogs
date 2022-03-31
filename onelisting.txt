@@ -1,5 +1,12 @@
 OneListing WordPress Theme
 ==========================
+
+-- 31.03.2022 ( Version 1.8 )
+==============================
+--Fixed new password setting issue.
+--Fixed elementor deprecated function.
+--Added support instance search results in archive pages
+
 -- Feb 17, 2022 ( Version 1.7 )
 =============================
 -- Fixed selec2 position

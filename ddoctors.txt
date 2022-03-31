@@ -1,6 +1,11 @@
 dDoctors WordPress Theme
 ==========================
 
+-- 31.03.2022 ( Version 1.5 )
+==============================
+--Improved & optimize code.
+--Added support instance search results in archive pages
+
 -- Jan 20, 2022 ( Version 1.4 )
 =============================
 -- Fix: Contact Popup

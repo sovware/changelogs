@@ -1,6 +1,12 @@
 dPlace WordPress Theme
 ==========================
 
+-- 31.03.2022 ( Version 1.3 )
+==============================
+--Fixed elementor deprecated function.
+--Improved archive page sidebar style.
+--Added support instance search results in archive pages
+
 -- Jan 20, 2022 ( Version 1.2 )
 =============================
 -- Added support Directorist latest version

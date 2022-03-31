@@ -1,6 +1,10 @@
 dCar WordPress Theme
 ==========================
 
+-- 31.03.2022 ( Version 1.1 )
+==============================
+--Added support instance search results in archive pages
+
 -- jan 24, 2022 (Version 1.0)
 =============================
 -- Initial release

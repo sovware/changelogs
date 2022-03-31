@@ -1,6 +1,11 @@
 dLawyers WordPress Theme
 =========================
 
+-- 31.03.2022 ( Version 1.8 )
+==============================
+--Fixed js error & layout.
+--Added support instance search results in archive pages
+
 -- Jan 20, 2022 ( Version 1.7 )
 =============================
 -- Fix: Contact Popup
