@@ -1,6 +1,14 @@
 dRealEstate WordPress Theme
 ==========================
 
+-- 12.05.2022 ( Version 1.5 )
+==============================
+--Fixed instance search issue.
+--Fixed minor CSS issue. 
+--Added support single listing custom template option.
+--Added support Directorist backward compatibility.
+--Added RTL support.
+
 -- 31.03.2022 ( Version 1.4 )
 ================================
 --Fixed single listing badge error.

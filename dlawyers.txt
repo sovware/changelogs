@@ -1,6 +1,13 @@
 dLawyers WordPress Theme
 =========================
 
+-- 12.05.2022 ( Version 1.9 )
+==============================
+--Fixed instance search issue.
+--Added support single listing custom template option.
+--Added support Directorist backward compatibility.
+--Added RTL support.
+
 -- 31.03.2022 ( Version 1.8 )
 ==============================
 --Fixed js error & layout.
