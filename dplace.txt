@@ -3,7 +3,7 @@ dPlace WordPress Theme
 
 -- 12.05.2022 ( Version 1.4 )
 ==============================
---Fixed instance search issue.
+--Fixed instant search issue.
 --Added support single listing custom template option.
 --Added support Directorist backward compatibility.
 --Added RTL support.
@@ -12,7 +12,7 @@ dPlace WordPress Theme
 ==============================
 --Fixed elementor deprecated function.
 --Improved archive page sidebar style.
---Added support instance search results in archive pages
+--Added support instant search results in archive pages
 
 -- Jan 20, 2022 ( Version 1.2 )
 =============================

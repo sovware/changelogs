@@ -3,7 +3,7 @@ dCar WordPress Theme
 
 -- 12.05.2022 ( Version 1.1 )
 ==============================
---Fixed instance search issue.
+--Fixed instant search issue.
 --Added support single listing custom template option.
 --Added support Directorist backward compatibility.
 --Added RTL support.

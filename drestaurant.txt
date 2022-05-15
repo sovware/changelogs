@@ -4,7 +4,7 @@ dRestaurant WordPress Theme
 -- 31.03.2022 ( Version 1.4 )
 ==============================
 --Fixed elementor deprecated function.
---Added support instance search results in archive pages
+--Added support instant search results in archive pages
 
 -- Jan 20, 2022 ( Version 1.3 )
 	=============================

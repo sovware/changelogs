@@ -3,7 +3,7 @@ OneListing WordPress Theme
 
 -- 12.05.2022 ( Version 1.9 )
 ==============================
---Fixed instance search issue.
+--Fixed instant search issue.
 --Added support single listing custom template option.
 --Added support Directorist backward compatibility.
 --Added RTL support.
@@ -12,7 +12,7 @@ OneListing WordPress Theme
 ==============================
 --Fixed new password setting issue.
 --Fixed elementor deprecated function.
---Added support instance search results in archive pages
+--Added support instant search results in archive pages
 
 -- Feb 17, 2022 ( Version 1.7 )
 =============================
