@@ -1,6 +1,11 @@
 dDoctors WordPress Theme
 ==========================
 
+-- 22.05.2022 ( Version 1.7 )
+==============================
+--Fixed single listing issue.
+--Fixed settings panel PHP issue.
+
 -- 12.05.2022 ( Version 1.6 )
 ==============================
 --Fixed Gender & Age search fields issues.
