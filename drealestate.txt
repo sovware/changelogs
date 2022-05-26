@@ -1,6 +1,13 @@
 dRealEstate WordPress Theme
 ==========================
 
+-- 26.05.2022 ( Version 1.6 )
+=========================
+--Added shortcode support on copyright area
+--Added support Directorist latest
+--Fixed login & register modal issue
+--Fixed instant search issue
+
 -- 12.05.2022 ( Version 1.5 )
 ==============================
 --Fixed instant search issue.

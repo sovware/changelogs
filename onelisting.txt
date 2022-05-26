@@ -1,6 +1,16 @@
 OneListing WordPress Theme
 ==========================
 
+-- 26.05.2022 ( Version 1.10 )
+=========================
+--Added shortcode support on copyright area
+--Added support Directorist latest
+--Fixed login & register modal issue
+--Fixed single listing slider issue
+--Fixed directory type issue
+--Fixed pricing plan dependency issue in the feature list field
+--Fixed quick search collapse issue
+
 -- 12.05.2022 ( Version 1.9 )
 ==============================
 --Fixed instant search issue.

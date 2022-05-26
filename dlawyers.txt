@@ -1,6 +1,14 @@
 dLawyers WordPress Theme
 =========================
 
+-- 26.05.2022 ( Version 1.10 )
+=========================
+--Added shortcode support on copyright area
+--Added support Directorist latest
+--Fixed login & register modal issue
+--Fixed instant search issue
+--Fixed claim listing issue on single listing page
+
 -- 12.05.2022 ( Version 1.9 )
 ==============================
 --Fixed instant search issue.
