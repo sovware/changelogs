@@ -1,6 +1,14 @@
 dDoctors WordPress Theme
 ==========================
 
+-- 30.05.2022 ( Version 1.8 )
+=============================
+--Added shortcode support on copyright area
+--Added support Directorist latest
+--Fixed login & register modal issue
+--Fixed instant search issue
+--Fixed custom checkbox search field issue
+
 -- 22.05.2022 ( Version 1.7 )
 ==============================
 --Fixed single listing issue.
