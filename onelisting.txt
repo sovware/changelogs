@@ -1,6 +1,13 @@
 OneListing WordPress Theme
 ==========================
 
+-- 06.06.2022 ( Version 1.11 )
+=========================
+--Fixed checkbox conflict with elementor header/footer
+--Fixed undefined index issue in add listing form
+--Fixed gallery popup scroll on close
+--Update Categories Listing Elementor Widgets
+
 -- 26.05.2022 ( Version 1.10 )
 =========================
 --Added shortcode support on copyright area
