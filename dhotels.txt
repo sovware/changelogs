@@ -1,6 +1,0 @@
-dHotels WordPress Theme
-==========================
-
--- 30.05.2022 ( Version 1.0 )
-=============================
--- Initial release
