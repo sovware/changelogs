@@ -1,0 +1,16 @@
+Directorist Business Hours
+==========================
+
+-- 7.06.2022 ( Version 2.7.1 )
+=========================
+Fix - Closed badge issue
+Fix - Field restriction with plan
+
+
+-- 2.06.2022 ( Version 2.7 )
+=========================
+Add - Compatibility with cache plugins
+Add - Open slot highlight in single listing
+Fix - Wrong status in morning schedule
+Fix - Style issues
+Improve - Search with open status

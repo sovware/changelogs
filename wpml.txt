@@ -1,0 +1,11 @@
+Directorist WPML Integration
+==========================
+
+-- 25.05.2022 ( Version 0.1.1 )
+=========================
+* Improved - Code Optimized
+* Fix - Minor Bugs
+
+-- 25.05.2022 ( Version 0.1.1 )
+=========================
+* Initial release
