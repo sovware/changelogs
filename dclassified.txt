@@ -1,5 +1,9 @@
 dClassified WordPress Theme
-==========================
+=============================
+
+-- July 19, 2022 ( Version 1.3 )
+=================================
+-- Added support Directorist latest version
 
 -- 26.05.2022 ( Version 1.2 )
 =========================

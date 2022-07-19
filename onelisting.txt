@@ -1,15 +1,19 @@
 OneListing WordPress Theme
-==========================
+===========================
+
+-- July 19, 2022 ( Version 1.12 )
+=================================
+-- Added support Directorist latest version
 
 -- 06.06.2022 ( Version 1.11 )
-=========================
+===============================
 --Fixed checkbox conflict with elementor header/footer
 --Fixed undefined index issue in add listing form
 --Fixed gallery popup scroll on close
 --Update Categories Listing Elementor Widgets
 
 -- 26.05.2022 ( Version 1.10 )
-=========================
+===============================
 --Added shortcode support on copyright area
 --Added support Directorist latest
 --Fixed login & register modal issue
@@ -42,17 +46,17 @@ OneListing WordPress Theme
 -- Fixed popup search & add listing form issue
 
 -- Jan 20, 2022 ( Version 1.6 )
-=============================
+================================
 -- Fix: Contact Popup
 -- Added support Directorist latest version
 -- Improved Styles
 
 -- Dec 30, 2021 ( Version 1.5 )
-=============================
+================================
 -- Added support Directorist latest version
 
 -- Dec 23, 2021 ( Version 1.4 )
-=============================
+================================
 -- Added support Directorist Booking latest version
 -- Fix: Single Location Box Count issue
 -- Title tag update for Single Listing h2 to h1

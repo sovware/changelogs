@@ -1,8 +1,12 @@
 dService WordPress Theme
 =========================
 
+-- July 19, 2022 ( Version 1.15 )
+=================================
+-- Added support Directorist latest version
+
 (Version 1.14, January 05, 2022)
-=============================
+=================================
 -- Added support Directorist latest version
 -- Improved Styles
 

@@ -1,8 +1,12 @@
 dPlace WordPress Theme
 ==========================
 
+-- July 19, 2022 ( Version 1.6 )
+=================================
+-- Added support Directorist latest version
+
 -- 26.05.2022 ( Version 1.5 )
-=========================
+==============================
 --Added shortcode support on copyright area
 --Added support Directorist latest
 --Fixed login & register modal issue
@@ -22,12 +26,12 @@ dPlace WordPress Theme
 --Added support instant search results in archive pages
 
 -- Jan 20, 2022 ( Version 1.2 )
-=============================
+===============================
 -- Added support Directorist latest version
 -- Improved Styles
 
 -- Dec 30, 2021 (Version 1.1)
-=============================
+==============================
 -- Added support Directorist latest version
 -- Added support Directorist Booking latest version
 -- Fix: Listing With Map issue

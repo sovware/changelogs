@@ -1,5 +1,9 @@
 dRestaurant WordPress Theme
-===========================
+============================
+
+-- July 19, 2022 ( Version 1.7 )
+=================================
+-- Added support Directorist latest version
 
 -- 26.05.2022 ( Version 1.6 )
 =========================
