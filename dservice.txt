@@ -1,6 +1,18 @@
 dService WordPress Theme
 =========================
 
+-- August 02, 2022 ( Version 1.17 )
+=================================
+-- Fixed minor CSS style issue
+-- Fixed demo data missing issue
+-- Fixed search form popular cat title issue
+
+-- July 31, 2022 ( Version 1.16 )
+=================================
+-- Fixed single listing custom template issue
+-- Fixed CSS style issue
+-- Improved & Optimized code
+
 -- July 19, 2022 ( Version 1.15 )
 =================================
 -- Added support Directorist latest version
