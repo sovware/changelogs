@@ -1,6 +1,15 @@
 dList WordPress Theme
 =========================
 
+-- August 30, 2022 ( Version 1.22 )
+=================================
+-- Added support Directorist template
+-- Fixed single listing custom template issue
+-- Fixed archive page sidebar issue
+-- Fixed Instant Search issue
+-- Improved Directorist search form
+-- Optimized code & improved CSS style
+
 -- July 19, 2022 ( Version 1.21 )
 =================================
 -- Added support Directorist latest version
