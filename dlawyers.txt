@@ -1,6 +1,11 @@
 dLawyers WordPress Theme
 =========================
 
+-- October 03, 2022 ( Version 1.12 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- July 19, 2022 ( Version 1.11 )
 =================================
 -- Added support Directorist latest version

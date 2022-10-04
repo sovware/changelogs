@@ -1,6 +1,11 @@
 dList WordPress Theme
 =========================
 
+-- October 03, 2022 ( Version 1.23 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- August 30, 2022 ( Version 1.22 )
 =================================
 -- Added support Directorist template

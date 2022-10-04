@@ -1,6 +1,11 @@
 dDoctors WordPress Theme
 ==========================
 
+-- October 03, 2022 ( Version 1.10.2 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- July 21, 2022 ( Version 1.10 )
 =================================
 -- Fixed php error
