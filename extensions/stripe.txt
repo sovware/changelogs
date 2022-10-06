@@ -1,0 +1,37 @@
+Stripe Payment Gateway
+=====================================
+
+-- Version 2.5.6, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 2.5.5, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 2.5.4, January 12, 2022
+=====================================
+-- Add - Endpoint listener in live transaction mode
+-- Improve - Data type validation
+-- Fix - Undefined function error when Pricing Plans is deactivated
+
+-- Version 2.5.3, December 08, 2021
+=====================================
+-- Fix - Conflict with Stripe Integration - LearnDash
+
+-- Version 2.5.1, November 23, 2021
+=====================================
+-- Fix - Compatibility issue with Coupon extension
+
+-- Version 2.5, November 8, 2021
+=====================================
+-- Add - Webhook for subscriptions
+-- Add - Compatibility with latest Pricing Plans extension
+
+-- Version 2.4.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 2.3.1, December 17, 2020
+=====================================
+-- Fix - Checkout issue in live transaction mode
