@@ -1,0 +1,27 @@
+Compare Listings
+=====================================
+
+-- Version 1.1.5, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 1.1.4, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 1.1.3, August 19, 2021
+=====================================
+-- Add - Custom fields on compare listing page
+
+-- Version 1.1.2, May 4, 2021
+=====================================
+-- Add - Custom fields on compare listing page
+-- Add - listing type on compare listing page
+
+-- Version 1.1.1, March 11, 2021
+=====================================
+-- Add - Missing option for compare page
+
+-- Version 1.1.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory

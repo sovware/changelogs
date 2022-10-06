@@ -1,0 +1,10 @@
+Job Manager
+=====================================
+
+-- Version 1.0.1, Oct 03, 2022
+=====================================
+-- Add: Icon Compatibility issue with directorist
+
+-- Version 1.0,August 29, 2022
+=====================================
+-- Initial release

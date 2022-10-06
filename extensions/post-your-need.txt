@@ -1,0 +1,39 @@
+Post Your Need
+=====================================
+
+-- Version 1.2.5, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 1.2.4, Jan 26, 2022</strong>
+=====================================
+-- Remove - Some unused code
+
+-- Version 1.2.3, Jan 10, 2022</strong>
+=====================================
+-- Fix - Error on directory type creation
+
+-- Version 1.2.2, May 6, 2021</strong>
+=====================================
+-- Fix - Activation error
+
+-- Version 1.2.1, May 4, 2021</strong>
+=====================================
+-- Fix - Auto directory type creation
+
+-- Version 1.2.0, March 1, 2021</strong>
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 1.1.7, July 29, 2020</strong>
+=====================================
+-- Fix - Undefined function error
+
+-- Version 1.1.6, July 2, 2020</strong>
+=====================================
+-- Fix - Listings and categories hiding issues
+
+-- Version 1.1.5, June 19, 2020</strong>
+=====================================
+-- Fix - Displaying Need listings in related listing slider
+-- Improve - Listing and Need listing sidebar

@@ -1,0 +1,14 @@
+Social Login
+=====================================
+
+-- Version 1.2.2, Oct 03, 2022d
+====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 1.2.1, Jun 13, 2022d
+====================================
+-- Fix - Style issues
+
+-- Version 1.2.0, March 1, 2021d
+====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory

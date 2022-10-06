@@ -1,0 +1,10 @@
+Directorist Coupon
+=====================================
+
+-- Version 1.1.1, November 23, 2021
+=====================================
+-- Add - Integration with Stripe gateway discount coupon
+
+-- Version 1.1.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
