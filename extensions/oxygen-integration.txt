@@ -1,6 +1,10 @@
 Oxygen Builder Integration
 =====================================
 
+-- Version 1.1.0, October 12, 2022
+=====================================
+-- Custom single listing template compatibility
+
 -- Version 1.0.1, October 25, 2021
 =====================================
 -- Fixed single listing oxygen custom template override issue
