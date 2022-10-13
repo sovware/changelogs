@@ -1,6 +1,12 @@
 WooCommerce Pricing Plans
 =====================================
 
+-- Version 3.1.5, Oct 13, 2022
+=====================================
+-- Fix : Textarea Character limit
+-- Fix : Listing not refreshing when downgrating to a free plan after expired form a paid plan
+-- Fix : Directory type nav issue when id specify in plans shortcode.
+
 -- Version 3.1.4, Oct 03, 2022
 =====================================
 -- Fix: Featured listing issue in renewal
