@@ -1,6 +1,10 @@
 Directorist Ads Manager
 =====================================
 
+-- Version 1.1.5, Oct 17, 2022
+=====================================
+-- Improve - Ads image quality
+
 -- Version 1.1.4, Oct 03, 2022
 =====================================
 -- Add : Icon Compatibility issue with directorist
