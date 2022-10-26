@@ -1,0 +1,6 @@
+Directorist - Digital Marketplace
+=====================================
+
+-- Version 1.0.0, Act 26, 2022
+=====================================
+-- Initial Release
