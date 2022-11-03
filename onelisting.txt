@@ -1,6 +1,11 @@
 OneListing WordPress Theme
 ===========================
 
+-- October 03, 2022 ( Version 1.14 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- July 19, 2022 ( Version 1.12 )
 =================================
 -- Added support Directorist latest version

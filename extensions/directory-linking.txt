@@ -1,0 +1,19 @@
+Multi Directory Linking
+=====================================
+
+-- Version 1.0.3, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 1.0.2, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 1.0.1, February 01, 2022
+=====================================
+-- Fix - issue with guest listing submission
+-- Fix - issue with select2
+
+-- Version 1.0.0, October 24, 2021
+=====================================
+-- Initial release

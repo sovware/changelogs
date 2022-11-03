@@ -1,0 +1,58 @@
+Claim Listing
+=====================================
+
+-- Version 1.5.2 Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+-- Fix : Claim issue with featured listing
+
+-- Version 1.5.0 August 14, 2022
+=====================================
+-- Fix - Pricing plan and claim approval issue
+
+-- Version 1.4.9, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 1.4.7, Jun 13, 2022
+=====================================
+-- Fix - Dynamic section label issue in single listing
+
+-- Version 1.4.6, March 20, 2022
+=====================================
+-- Fix - Checkout issue with free claim
+
+-- Version 1.4.5, November 28, 2021
+=====================================
+-- Fix - Verified badge icon issue in all listings page
+
+-- Version 1.4.4, November 21, 2021
+=====================================
+-- Improve - Compatibility with Pricing Plans extensions
+
+-- Version 1.4.3, May 24, 2021
+=====================================
+-- Fix - Claiming with the pricing plan
+
+-- Version 1.4.2, April 11, 2021
+=====================================
+-- Add - Verified badge in listing archive page
+-- Fix - Badge issue on single listing
+-- Improve - Style
+-- Remove - Legacy extension updater
+
+-- Version 1.4.1, March 15, 2021
+=====================================
+-- Fix - Verified badge issue
+
+-- Version 1.4.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 1.3.6, June 19, 2020
+=====================================
+-- Fix - Conflict with Booking extension
+
+-- Version 1.3.5, June 2, 2020
+=====================================
+-- Fix - Compatibility issue with WooCommerce Pricing Plans extension

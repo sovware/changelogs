@@ -1,0 +1,26 @@
+Listings Slider & Carousel
+=====================================
+
+-- Version 1.6.3, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 1.6.2, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 1.6.1, March 7, 2021
+=====================================
+--  Fix -  Slider issue
+
+-- Version 1.6.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 1.5.4, July 16, 2020
+=====================================
+-- Fix - Default image issue
+
+-- Version 1.5.3, July 2, 2020
+=====================================
+-- Fix - Conflict with Elementor

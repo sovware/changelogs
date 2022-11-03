@@ -1,6 +1,11 @@
 Direo WordPress Theme
 =========================
 
+-- October 03, 2022 ( Version 2.15 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- August 10, 2022 ( Version 2.14 )
 =================================
 -- Added support Directorist latest version

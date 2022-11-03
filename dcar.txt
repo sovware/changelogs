@@ -1,6 +1,11 @@
 dCar WordPress Theme
 ==========================
 
+-- October 03, 2022 ( Version 1.5 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- July 19, 2022 ( Version 1.4 )
 =================================
 -- Added support Directorist latest version

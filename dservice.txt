@@ -1,6 +1,11 @@
 dService WordPress Theme
 =========================
 
+-- October 03, 2022 ( Version 1.18 )
+=================================
+-- Added Directorist Icon Support
+-- Style Improved
+
 -- August 02, 2022 ( Version 1.17 )
 =================================
 -- Fixed minor CSS style issue

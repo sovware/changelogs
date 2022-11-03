@@ -1,0 +1,80 @@
+Business Hours
+=====================================
+
+-- Version 2.7.6, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 2.7.5, Aug 24, 2022
+=====================================
+-- Fix - Translation issue in single listing and form fields
+
+-- Version 2.7.4, Aug 14, 2022
+=====================================
+-- Improve - Cache compatibility
+-- Fix - Style issues
+
+-- Version 2.7.3, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 2.7.2, June 8, 2022
+=====================================
+-- Fix - Showing single listing badge even hours is disabled for a listing
+-- Fix - Showing open badge even the day is closed
+
+-- Version 2.7.1, June 7, 2022
+=====================================
+-- Fix - Closed badge in Archive pages
+-- Fix - Field restriction with pricing plan
+
+-- Version 2.7.0, June 2, 2022
+=====================================
+-- Add - Compatibility with cache plugins
+-- Add - Open slot highlight in single listing
+-- Fix - Wrong status in morning schedule
+-- Fix - Style issues
+-- Improve - Search with open status
+
+-- Version 2.6.6, November 4, 2021
+=====================================
+-- Fix - Issue while adding multiple operation hours
+
+-- Version 2.6.5, September 21, 2021
+=====================================
+-- Fix - Open now searching issue
+
+-- Version 2.6.4, August 9, 2021
+=====================================
+-- Fix - Fatal error on plugin activation
+
+-- Version 2.6.3, August 5, 2021
+=====================================
+-- Fix - Search by Open Now issue
+-- Improve - HTML markup
+-- Improve - Multi-site support
+
+-- Version 2.6.2, May 6, 2021
+=====================================
+-- Add - Multiple time
+-- Fix - Selected time issue on add listing
+-- Fix - Translate issue
+
+-- Version 2.6.1, March 9, 2021
+=====================================
+-- Fix - Time saving issue
+-- Fix - Listing filter by open now
+
+-- Version 2.6.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 2.5.4, June 26, 2020
+=====================================
+-- Fix - Translation issues
+-- Improve - Placeholder of 'Time From' and 'Time To' fields
+
+-- Version 2.5.3, June 22, 2020
+=====================================
+-- Fix - Showing incorrect time in 24h format
+-- Improve - Code Standard

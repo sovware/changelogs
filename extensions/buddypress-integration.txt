@@ -1,0 +1,18 @@
+BuddyPress Integration
+=====================================
+
+-- Version 1.2, March 31, 2022
+=====================================
+-- Fix: listing published activity shown in admin timeline instead of listing owner
+-- Fix: group listings search suggestion issue
+-- Update: new listing activity text
+
+-- Version 1.1, February 13, 2022
+=====================================
+-- Added custom activity type
+-- Fixed missing activity type
+-- Fixed favorites count issue
+
+-- Version 1.0, July 8, 2021
+=====================================
+-- Initial release

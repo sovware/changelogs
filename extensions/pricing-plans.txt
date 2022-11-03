@@ -1,0 +1,180 @@
+Pricing Plans
+=====================================
+
+-- Version 2.1.2, Oct 13, 2022
+=====================================
+-- Fix : Textarea Character limit
+-- Fix : Listing not refreshing when downgrating to a free plan after expired form a paid plan
+-- Fix : Directory type nav issue when id specify in plans shortcode.
+
+-- Version 2.1.1, Oct 03, 2022
+=====================================
+-- Fix : Featured listing issue in renewal
+-- Fix : Issue in listing type only section
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 2.1.0, Aug 24, 2022
+=====================================
+-- Fix - Form field restriction issue in admin add listing form
+-- Fix - Translation issue in user dashboard
+
+-- Version 2.0.10, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 2.0.9, Jun 07, 2022
+=====================================
+-- Fix - Fields restriction with plan
+
+-- Version 2.0.8, April 03, 2022
+=====================================
+-- Fix - Checkout conflict with Directorist Claim Listing extension
+
+-- Version 2.0.7, March 31, 2022
+=====================================
+-- Fix - Character limit in Textarea field
+
+-- Version 2.0.6, January 26, 2022
+=====================================
+-- Fix - Active pay per listing without listing redirection issue
+-- Fix - Active badge issue in plan changing pup-up
+
+-- Version 2.0.5, January 02, 2022
+=====================================
+-- New - Option to restrict user listing deletion
+-- Fix - Active pay per plan charged twice even fresh order available
+-- Fix - Plan payment status in admin all listings screen
+-- Fix - Add listing form submission issue in some sites
+-- Fix - Prevent submission when the order has no allowances
+-- Fix - The wrong allowance in admin plan gifting
+-- Fix - Console error in listing form
+-- Fix - Minor style issue
+-- Fix - Conflict with settings panel
+-- Fix - Error on activation on PHP v5.1 or lower
+-- Fix - Listing description restriction from plan
+-- Improve - Data structure
+-- Improve - Restrict email notification only for daily renewal listings
+
+-- Version 2.0.4, November 23, 2021
+=====================================
+-- Fix - Compatibility issue with Coupon extension
+
+-- Version 2.0.3, November 21, 2021
+=====================================
+-- Improve - Compatibility with Claim Listing extension
+
+-- Version 2.0.1, November 03, 2021
+=====================================
+-- Fix - Payment status and plan status in admin all listing
+
+-- Version 2.0, November 03, 2021
+=====================================
+-- New - Listing update with the recurring payment status
+-- Fix - Package validation
+-- Fix - Style issues
+-- Improve - Performance
+
+-- Version 1.8.7, October 04, 2021
+=====================================
+-- Fix - Fatal error when directorist plugin is deactivated
+
+-- Version 1.8.6, July 15, 2021
+=====================================
+-- Improve - Multisite support
+-- Fix - Paid user redirect to checkout
+-- Fix - Listing goes to pending status even order status completed
+
+-- Version 1.8.5, Jun 17, 2021
+=====================================
+-- Fix - Checkout redirection when editing a paid listing
+-- Fix - Featured listing issue with pay per listing
+-- Fix - VAT issue with plan
+-- Fix - Style issues
+-- Fix - Location limit issue
+-- Fix - Issue with skip plan page for paid user option
+-- Fix - Error with booking
+-- Fix - Dynamic field issue in all plans page
+-- Fix - Duplicate plan issue in change plan modal in dashboard
+-- Replace - Including $ tax/vat by Plus $ tax/vat
+-- Rename - Some hooks
+
+-- Version 1.8.4, April 11, 2021
+=====================================
+-- Fix - Translation issues
+-- Fix - PHP compatibility issue
+-- Fix - Field loading issue in add listing
+-- Fix - Pay Per Plan
+-- Fix - Category exclude from plan
+-- Fix - Decimal issue in plan price
+-- Fix - Responsive issue
+-- Fix - Private Plan issue
+-- Fix - Column controlling issue in plan page
+-- Fix - Listing status issue with free plan
+-- Improve - Compatibility with Booking extension
+
+-- Version 1.8.3, March 9, 2021
+=====================================
+-- Fix - Plan type saving issue
+-- Improve - Migration
+
+-- Version 1.8.2, March 4, 2021
+=====================================
+-- Fix - Edit listing field missing issue
+
+-- Version 1.8.1, March 3, 2021
+=====================================
+-- Tweak - Improved plan migration
+
+-- Version 1.8.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 1.7.4, August 12, 2020
+=====================================
+-- Add - Vat/tax rate
+-- Fix - Currency and Order History issues of User Dashboard page
+-- Tweak - Plan changing text of User Dashboard page
+
+-- Version 1.7.3, July 17, 2020
+=====================================
+-- Add - Pay Now link for non paid listings of user dashboard page
+-- Fix - Listing expiration date issue when Pricing Plans disabled by admin options
+-- Fix - Plan page skipping issue if user has multiple active packages
+-- Improve - Page loading performance/load page specific content
+-- Improve - File structure
+
+-- Version 1.7.2, July 8, 2020
+=====================================
+-- Fix - Wrong order data in User Dashboard page
+-- Improve - Plan assigning from admin add listing form
+-- Improve - Database query
+
+-- Version 1.7.1, July 1, 2020
+=====================================
+-- Fix - Translation issues
+
+-- Version 1.7.0, June 26, 2020
+=====================================
+-- Fix - Onetime token issue of renewal listing link
+-- Fix - RTL style issues
+-- Improve - User Dashboard
+
+-- Version 1.6.9, June 14, 2020
+=====================================
+-- Fix - Data updating issue of admin Add Listing form
+-- Improve - Code Standard
+
+-- Version 1.6.8, June 13, 2020
+=====================================
+-- Fix - Featured listing issue on plan change
+-- Fix - Listing saving issue of admin add listing form
+
+-- Version 1.6.7, June 9, 2020
+=====================================
+-- Tweak - Dashboard plan changing text
+-- Improve - Assigning pricing plan from add listing form of administrator
+-- Fix - Dashboard active package issue
+
+-- Version 1.6.6, June 2, 2020
+=====================================
+-- Fix - Plan upgrade, downgrade and renewal issue

@@ -1,0 +1,55 @@
+Listings with Map
+=====================================
+
+-- Version 1.6.4, Oct 03, 2022
+=====================================
+-- Add : Icon Compatibility issue with directorist
+
+-- Version 1.6.3, July 19, 2022
+=====================================
+-- Add : compatibility with directorist latest version
+
+-- Version 1.6.2, December 13, 2021
+=====================================
+-- Fix: mobile responsive issue
+-- Fix: searching issue
+
+-- Version 1.6.1, November 21, 2021
+=====================================
+-- Fix: reset button
+-- Fix: category &amp; location search issue
+-- Fix: review search issue
+-- Improve: design
+
+-- Version 1.6.0, September 1, 2021
+=====================================
+-- Fix - Custom field searching issue
+-- Fix - Translation issue
+-- Fix - Map height issue
+-- Fix - Issue with no listing found
+-- Fix - Listings search by enter
+-- Fix - Some issues after Ajax load
+-- Fix - Responsive issues
+-- Remove - Zoom settings
+-- Improve - Markup
+
+-- Version 1.5.2, April 7, 2021
+=====================================
+-- Fix - Style issues
+-- Fix - Listing type issue
+
+-- Version 1.5.1, March 9, 2021
+=====================================
+-- Add : support map_zoom_level parameter
+-- Fix : style issues
+
+-- Version 1.5.0, March 1, 2021
+=====================================
+-- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+-- Version 1.4.0, June 26, 2020
+=====================================
+-- Fix - Featured Listing issue
+-- Fix - Image Issue on Map View
+-- Fix - Query Issue in Search Result
+-- Fix - Style Issues
