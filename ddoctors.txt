@@ -1,6 +1,12 @@
 dDoctors WordPress Theme
 ==========================
 
+-- November 03, 2022 ( Version 1.11)
+==================================================
+-Fixed dir type search field issue in archive page
+-Optimized query
+-Fixed minor style issue
+
 -- July 21, 2022 ( Version 1.10 )
 =================================
 -- Fixed php error
