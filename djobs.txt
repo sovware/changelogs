@@ -1,0 +1,6 @@
+dJobs WordPress Theme
+=========================
+
+-- 15.11.2022 ( Version 0.9 )
+=============================
+-- Initial release
