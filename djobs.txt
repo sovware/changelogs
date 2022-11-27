@@ -5,6 +5,7 @@ dJobs WordPress Theme
 =============================
 -- Fixed responsive issue
 -- improved style
+-- Added child-theme
 
 -- 15.11.2022 ( Version 0.9 )
 =============================
