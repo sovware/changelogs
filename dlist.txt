@@ -1,6 +1,12 @@
 dList WordPress Theme
 =========================
 
+-- November 24, 2022 ( Version 1.23 )
+======================================
+-- Fixed login and register fields issue
+-- Fixed style issue
+-- Improved style
+
 -- October 03, 2022 ( Version 1.23 )
 =================================
 -- Added Directorist Icon Support
