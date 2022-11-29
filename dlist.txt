@@ -1,7 +1,7 @@
 dList WordPress Theme
 =========================
 
--- November 24, 2022 ( Version 1.23 )
+-- November 29, 2022 ( Version 1.23 )
 ======================================
 -- Fixed login and register fields issue
 -- Fixed style issue
