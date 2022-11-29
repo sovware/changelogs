@@ -1,7 +1,7 @@
 dService WordPress Theme
 =========================
 
--- November 24, 2022 ( Version 1.19 )
+-- November 29, 2022 ( Version 1.19 )
 =================================
 -- Fixed login and register fields issue
 -- Fixed style issue
