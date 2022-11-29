@@ -1,6 +1,11 @@
 Directoria WordPress Theme
 ===========================
 
+-- November 29, 2022 ( Version 2.2.9 )
+======================================
+-- Added Directorist template Support
+-- Improved widget style
+
 -- October 03, 2022 ( Version 2.2.8 )
 =================================
 -- Added Directorist Icon Support
