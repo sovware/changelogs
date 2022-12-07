@@ -1,6 +1,12 @@
 dService WordPress Theme
 =========================
 
+-- November 29, 2022 ( Version 1.19 )
+=================================
+-- Fixed login and register fields issue
+-- Fixed style issue
+-- Improved style
+
 -- October 03, 2022 ( Version 1.18 )
 =================================
 -- Added Directorist Icon Support

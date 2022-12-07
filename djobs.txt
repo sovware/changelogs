@@ -1,0 +1,12 @@
+dJobs WordPress Theme
+=========================
+
+-- 27.11.2022 ( Version 1.0 )
+=============================
+-- Fixed responsive issue
+-- improved style
+-- Added child-theme
+
+-- 15.11.2022 ( Version 0.9 )
+=============================
+-- Initial release

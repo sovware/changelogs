@@ -1,6 +1,11 @@
 dPlace WordPress Theme
 ==========================
 
+-- November 20, 2022 ( Version 1.9 )
+=================================
+-- Added Directorist Template Support
+-- Style Improved
+
 -- October 03, 2022 ( Version 1.7 )
 =================================
 -- Added Directorist Icon Support
