@@ -1,4 +1,4 @@
-## Best Listing WordPress Theme Changelogs
+## Best Listing WordPress Theme Changelog
 
 #### V1.2.0 (Dec 06, 2022)
 - Fixed directorist dependency error
