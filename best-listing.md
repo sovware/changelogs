@@ -1,5 +1,9 @@
 ## Best Listing WordPress Theme Changelog
 
+#### V1.2.1 (December 07, 2022)
+- Fixed test domain issue
+- Fixed data sanitization issue
+
 #### V1.2.0 (December 07, 2022)
 - Fixed directorist dependency error
 - Fixed sanitization issue
