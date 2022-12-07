@@ -3,6 +3,12 @@ dRealEstate WordPress Theme
 
 -- October 03, 2022 ( Version 1.8 )
 =================================
+-- Custom Single Listing Support
+-- Style Improved
+-- Issue Fix
+
+-- October 03, 2022 ( Version 1.8 )
+=================================
 -- Added Directorist Icon Support
 -- Style Improved
 
