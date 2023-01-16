@@ -1,6 +1,13 @@
 dRestaurant WordPress Theme
 ============================
 
+-- January 16, 2023 ( Version 1.10 )
+======================================
+-- Fixed elementor deprecated issue
+-- Fixed read more issue in single listing
+-- Fixed share field style issue in single listing
+-- Fixed minor styling issue
+
 -- November 20, 2022 ( Version 1.9 )
 =================================
 -- Added Directorist Template Support

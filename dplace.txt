@@ -1,6 +1,11 @@
 dPlace WordPress Theme
 ==========================
 
+-- January 16, 2023 ( Version 1.10 )
+======================================
+-- Fixed elementor deprecated issue
+-- Fixed minor styling issue
+
 -- November 20, 2022 ( Version 1.9 )
 =================================
 -- Added Directorist Template Support
