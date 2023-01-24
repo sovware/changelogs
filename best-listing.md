@@ -1,5 +1,10 @@
 ## Best Listing WordPress Theme Changelog
 
+#### V1.2.3 (January 24, 2023)
+- Fixed Elementor dependency issue
+- Fixed dashboard login modal issue
+- Optimized code
+
 #### V1.2.2 (December 11, 2022)
 - Fixed Directorist dependency issue
 
