@@ -1,6 +1,12 @@
 dDoctors WordPress Theme
 ==========================
 
+-- February 15, 2023 ( Version 1.14 )
+======================================
+-- Fixed RTL issue
+-- Improved all-listing filter by category
+-- Improved style
+
 -- January 16, 2023 ( Version 1.13 )
 ======================================
 -- Fixed elementor deprecated issue
