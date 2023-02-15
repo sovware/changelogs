@@ -14,7 +14,7 @@ dDoctors WordPress Theme
 -- Fixed minor styling issue
 
 -- November 20, 2022 ( Version 1.12 )
-=================================
+======================================
 -- Added Directorist Template Support
 -- Style Improved
 
@@ -25,20 +25,20 @@ dDoctors WordPress Theme
 -Fixed minor style issue
 
 -- October 03, 2022 ( Version 1.10.2 )
-=================================
+=======================================
 -- Added Directorist Icon Support
 -- Style Improved
 
 -- July 21, 2022 ( Version 1.10 )
-=================================
+==================================
 -- Fixed php error
 
 -- July 19, 2022 ( Version 1.9 )
-=================================
+==================================
 -- Added support Directorist latest version
 
 -- 30.05.2022 ( Version 1.8 )
-=============================
+===============================
 --Added shortcode support on copyright area
 --Added support Directorist latest
 --Fixed login & register modal issue
