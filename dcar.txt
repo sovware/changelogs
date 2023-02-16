@@ -1,6 +1,10 @@
 dCar WordPress Theme
 ==========================
 
+February16, 2023 ( Version 1.8 )
+======================================
+-- Fixed minor style issue
+
 -- January 16, 2023 ( Version 1.7 )
 ======================================
 -- Fixed elementor deprecated issue

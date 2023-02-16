@@ -1,6 +1,10 @@
 dHotels WordPress Theme
 =========================
 
+-- February16, 2023 ( Version 1.5 )
+======================================
+-- Fixed minor style issue
+
 -- January 16, 2023 ( Version 1.4 )
 ======================================
 -- Fixed elementor deprecated issue
