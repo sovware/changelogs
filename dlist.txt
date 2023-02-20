@@ -1,6 +1,12 @@
 dList WordPress Theme
 =========================
 
+-- February 20, 2023 ( Version 1.26 )
+=================================
+-- Fixed Elementor decorticated issue
+-- Fixed style & RTL issue
+-- Improved & Optimized code
+
 -- January 12, 2023 ( Version 1.25 )
 ======================================
 -- Fixed elementor deprecated issue
