@@ -1,6 +1,13 @@
 Direo WordPress Theme
 =========================
 
+-- November 29, 2022 ( Version 2.17 )
+=========================================
+-- Fixed elementor depricated issue
+-- Fixed authoor image issue
+-- Fixed directorist depricated issue
+-- Improved style
+
 -- November 29, 2022 ( Version 2.16 )
 =================================
 -- Fixed login and register fields issue
