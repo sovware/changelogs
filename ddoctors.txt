@@ -1,6 +1,11 @@
 dDoctors WordPress Theme
 ==========================
 
+March 03, 2023 ( Version 1.15 )
+============================================
+-- Fixed Search Form Field Dependency issue
+-- Added Directorist template support
+
 -- February 15, 2023 ( Version 1.14 )
 ======================================
 -- Fixed RTL issue
