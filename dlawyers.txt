@@ -1,6 +1,11 @@
 dLawyers WordPress Theme
 =========================
 
+March 03, 2023 ( Version 1.16 )
+============================================
+-- Fixed Search Form Field Dependency issue
+-- Added Directorist template support
+
 -- February16, 2023 ( Version 1.15 )
 ======================================
 -- Fixed minor style issue
