@@ -1,6 +1,11 @@
 Directoria WordPress Theme
 ===========================
 
+March 03, 2023 ( Version 2.2.10 )
+============================================
+-- Fixed Search Form Field Dependency issue
+-- Added Directorist template support
+
 -- November 29, 2022 ( Version 2.2.9 )
 ======================================
 -- Added Directorist template Support
