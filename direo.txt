@@ -1,11 +1,6 @@
 Direo WordPress Theme
 =========================
 
-March 03, 2023 ( Version 2.18 )
-============================================
--- Fixed Search Form Field Dependency issue
--- Added Directorist template support
-
 -- February 22, 2023 ( Version 2.17 )
 =========================================
 -- Fixed elementor depricated issue
