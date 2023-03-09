@@ -1,6 +1,11 @@
 dHotels WordPress Theme
 =========================
 
+March 03, 2023 ( Version 1.6 )
+============================================
+-- Fixed Search Form Field Dependency issue
+-- Added Directorist template support
+
 -- February16, 2023 ( Version 1.5 )
 ======================================
 -- Fixed minor style issue
