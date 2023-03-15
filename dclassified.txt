@@ -1,6 +1,14 @@
 dClassified WordPress Theme
 =============================
 
+March 15, 2023 ( Version 1.10 )
+============================================
+-- Fixed font loading issue
+
+March 03, 2023 ( Version 1.09 )
+============================================
+-- Fixed Minor issue
+
 March 03, 2023 ( Version 1.8 )
 ============================================
 -- Fixed Search Form Field Dependency issue
