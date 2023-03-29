@@ -1,6 +1,11 @@
 dRestaurant WordPress Theme
 ============================
 
+March 29, 2023 ( Version 1.14 )
+============================================
+-- Fixed listing type issue
+-- Updated Directorist-Pricing-Plan template
+
 March 03, 2023 ( Version 1.12 )
 ============================================
 -- Fixed Search Form Field Dependency issue
