@@ -1,6 +1,11 @@
 dClassified WordPress Theme
 =============================
 
+April 10, 2023 ( Version 1.11 )
+============================================
+-- Fixed menu area icon issue
+-- Fixed single listing icon issue
+
 March 15, 2023 ( Version 1.10 )
 ============================================
 -- Fixed font loading issue
