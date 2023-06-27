@@ -1,7 +1,7 @@
 dList WordPress Theme
 =========================
 
--- February 20, 2023 ( Version 1.28 )
+-- June 27, 2023 ( Version 1.28 )
 =================================
 -- Fixed pagination missue
 -- Fixed login-registration modal issue
