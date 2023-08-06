@@ -1,6 +1,20 @@
 dClassified WordPress Theme
 =============================
 
+August 06, 2023 ( Version 1.14 )
+============================================
+-- Fixed translation issue
+-- Added slider clickable reature
+
+July 07, 2023 ( Version 1.13 )
+============================================
+-- Fixed related pos link issue
+-- Fixed single listing header option edit issue
+
+July 07, 2023 ( Version 1.12 )
+============================================
+-- Fixed single listing icon issue
+
 April 10, 2023 ( Version 1.11 )
 ============================================
 -- Fixed menu area icon issue
