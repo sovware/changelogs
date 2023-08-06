@@ -1,6 +1,15 @@
 dHotels WordPress Theme
 =========================
 
+August 06, 2023 ( Version 1.8 )
+============================================
+-- Fixed translation issue
+-- Added slider clickable reature
+
+July 07, 2023 ( Version 1.7 )
+============================================
+-- Fixed google-font issue
+
 March 03, 2023 ( Version 1.6 )
 ============================================
 -- Fixed Search Form Field Dependency issue
