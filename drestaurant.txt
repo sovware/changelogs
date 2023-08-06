@@ -1,6 +1,15 @@
 dRestaurant WordPress Theme
 ============================
 
+August 06, 2023 ( Version 1.16 )
+============================================
+-- Fixed translation issue
+-- Added slider clickable reature
+
+July 03, 2023 ( Version 1.15 )
+============================================
+-- Fixed dashboard issue
+
 March 29, 2023 ( Version 1.14 )
 ============================================
 -- Fixed listing type issue
