@@ -1,6 +1,16 @@
 dDoctors WordPress Theme
 ==========================
 
+August 06, 2023 ( Version 1.17 )
+============================================
+-- Fixed translation issue
+-- Added slider clickable reature
+
+May 18, 2023 ( Version 1.16 )
+============================================
+-- Fixed single listing icon issue
+-- Fixed single listing slider issue
+
 March 03, 2023 ( Version 1.15 )
 ============================================
 -- Fixed Search Form Field Dependency issue
