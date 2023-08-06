@@ -1,5 +1,14 @@
 dCar WordPress Theme
 ==========================
+August 06, 2023 ( Version 1.11 )
+============================================
+-- Fixed translation issue
+-- Added slider clickable reature
+
+may 18, 2023 ( Version 1.10 )
+============================================
+-- Fixed single listing slider issue
+-- Fixed add-listing page responsive issue
 
 March 03, 2023 ( Version 1.9 )
 ============================================
