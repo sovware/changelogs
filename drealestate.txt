@@ -1,6 +1,10 @@
 dRealEstate WordPress Theme
 ============================
 
+August 20, 2023 ( Version 1.17 )
+============================================
+-- Fixed demo-importer security issue
+
 August 06, 2023 ( Version 1.16 )
 ============================================
 -- Fixed translation issue
