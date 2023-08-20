@@ -1,6 +1,13 @@
 Direo WordPress Theme
 =========================
 
+August 20, 2023 ( Version 2.29 )
+============================================
+-- Fixed demo-importer security issue
+-- Updated Directorist Pricing Plan extension
+-- Updated Directorist FAQ extension
+-- Updated Google ReCaptcha extension
+
 -- June 27, 2023 ( Version 2.18 )
 =========================================
 -- Updated extensions
