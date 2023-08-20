@@ -1,6 +1,11 @@
 OneListing WordPress Theme
 ===========================
 
+
+August 20, 2023 ( Version 1.23 )
+============================================
+-- Fixed demo-importer security issue
+
 August 06, 2023 ( Version 1.22 )
 ============================================
 -- Fixed search-form issue
