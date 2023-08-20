@@ -1,6 +1,10 @@
 dDoctors WordPress Theme
 ==========================
 
+August 20, 2023 ( Version 1.18 )
+============================================
+-- Fixed demo-importer security issue
+
 August 06, 2023 ( Version 1.17 )
 ============================================
 -- Fixed translation issue
