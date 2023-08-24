@@ -1,5 +1,8 @@
 ## Best Listing WordPress Theme Changelog
 
+#### V1.2.4 (August 24, 2023)
+- Added Directorist support
+  
 #### V1.2.3 (January 25, 2023)
 - Added toolkit plugin
 - Fixed Elementor dependency issue
