@@ -1,6 +1,10 @@
 dDoctors WordPress Theme
 ==========================
 
+August 20, 2023 ( Version 1.19 )
+============================================
+-- Added directorist support for login & registration modal
+
 August 20, 2023 ( Version 1.18 )
 ============================================
 -- Fixed demo-importer security issue
