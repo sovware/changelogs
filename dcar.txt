@@ -1,7 +1,7 @@
 dCar WordPress Theme
 ==========================
 
-August 20, 2023 ( Version 1.13 )
+August 24, 2023 ( Version 1.13 )
 ============================================
 -- Added directorist support for login & registration modal
 
