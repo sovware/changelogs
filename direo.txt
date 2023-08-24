@@ -1,6 +1,10 @@
 Direo WordPress Theme
 =========================
 
+August 20, 2023 ( Version 2.30 )
+============================================
+-- Added directorist support for login & registration modal
+
 August 20, 2023 ( Version 2.29 )
 ============================================
 -- Fixed demo-importer security issue
