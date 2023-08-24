@@ -1,7 +1,7 @@
 dHotels WordPress Theme
 =========================
 
-August 20, 2023 ( Version 1.10 )
+August 24, 2023 ( Version 1.10 )
 ============================================
 -- Added directorist support for login & registration modal
 
