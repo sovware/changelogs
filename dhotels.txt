@@ -1,6 +1,14 @@
 dHotels WordPress Theme
 =========================
 
+September 12, 2023 ( Version 1.12 )
+============================================
+-- Fixed recovery password issue
+
+August 28, 2023 ( Version 1.11 )
+====================================================
+-- Fixed login registration modal scripting issue
+
 August 24, 2023 ( Version 1.10 )
 ============================================
 -- Added directorist support for login & registration modal

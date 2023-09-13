@@ -1,6 +1,14 @@
 OneListing WordPress Theme
 ===========================
 
+September 12, 2023 ( Version 1.26 )
+============================================
+-- Fixed recovery password issue
+
+August 28, 2023 ( Version 1.25 )
+====================================================
+-- Fixed login registration modal scripting issue
+
 August 24, 2023 ( Version 1.24 )
 ============================================
 -- Added directorist support for login & registration modal
