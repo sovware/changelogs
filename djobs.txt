@@ -1,6 +1,10 @@
 dJobs WordPress Theme
 =========================
 
+December 28, 2023 ( Version 1.18 )
+==============================================
+-- Fixed single listing custom textarea issue
+
 September 12, 2023 ( Version 1.17 )
 ============================================
 -- Fixed recovery password issue
