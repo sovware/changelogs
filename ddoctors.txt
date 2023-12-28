@@ -1,6 +1,10 @@
 dDoctors WordPress Theme
 ==========================
 
+December 28, 2023 ( Version 1.22 )
+==============================================
+-- Fixed single listing custom textarea issue
+
 September 12, 2023 ( Version 1.21 )
 ============================================
 -- Fixed recovery password issue
