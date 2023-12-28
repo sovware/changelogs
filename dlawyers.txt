@@ -1,6 +1,10 @@
 dLawyers WordPress Theme
 =========================
 
+December 28, 2023 ( Version 1.21 )
+==============================================
+-- Fixed single listing custom textarea issue
+
 September 12, 2023 ( Version 1.20 )
 ============================================
 -- Fixed recovery password issue
