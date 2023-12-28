@@ -1,6 +1,10 @@
 OneListing WordPress Theme
 ===========================
 
+December 28, 2023 ( Version 1.27 )
+==============================================
+-- Fixed single listing custom textarea issue
+
 September 12, 2023 ( Version 1.26 )
 ============================================
 -- Fixed recovery password issue
