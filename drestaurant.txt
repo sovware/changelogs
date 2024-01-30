@@ -1,6 +1,10 @@
 dRestaurant WordPress Theme
 ============================
 
+January 30, 2024 ( Version 1.24 )
+==============================================
+-- Fixed recent review issue
+
 December 28, 2023 ( Version 1.21 )
 ==============================================
 -- Fixed single listing custom textarea issue
