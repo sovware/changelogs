@@ -1,159 +1,220 @@
 WooCommerce Pricing Plans
 =====================================
 
--- Version 3.1.5, Oct 13, 2022
-=====================================
--- Fix : Textarea Character limit
--- Fix : Listing not refreshing when downgrating to a free plan after expired form a paid plan
--- Fix : Directory type nav issue when id specify in plans shortcode.
+Version 3.2.9, Aug 27, 2024
 
--- Version 3.1.4, Oct 03, 2022
-=====================================
--- Fix: Featured listing issue in renewal
--- Fix: Issue in listing type only section
--- Add: Icon Compatibility issue with directorist
+Fix - Listing auto expiration issue when a valid subscription is assigned
+Fix - Wrong published email confirmation in failed order
+Improve - Compatibility with Claim Listing extension
 
--- Version 3.1.3, August 14, 2022
-=====================================
--- Fix - Error in active order verification
--- Fix - Missing style in the edit product page
--- Fix - Plan fields are not updating on type change
--- Fix - Empty cart issue on listing renewal
+Version 3.2.8, Jun 27, 2024
 
--- Version 3.1.2, July 19, 2022
-=====================================
--- Add : compatibility with directorist latest version
+Fix - Issue with pay-per-listing plan
 
--- Version 3.1.0, April 1, 2022
-=====================================
--- Fix - Listing Upgrade/Downgrade/Renewal with subscription plan
--- Fix - Character limit in textarea field
--- Fix - Main Query resetting issue in user dashboard
--- Fix - Static day in trial period
--- Fix - Fresh Pay Per Plan accessing issue
+Version 3.2.7, Jun 24, 2024
 
--- Version 3.0, March 16, 2022
-=====================================
--- Add - Integration with WooCommerce Subscription (Recurring Payment, Trial Period, Auto Expiration, Subscription Sign up Fee)
--- Fix - Description word limit in add listing form
--- Improve - Style in all plans page
+Fix - Translation issue
+Improve - Guest custom purchase journey
 
--- Version 2.0.2, January 26, 2022
-=====================================
--- Fix - Active pay per listing without listing redirection issue
--- Fix - Active badge issue in plan changing pup-up
--- Fix - Redirection when order has no allowance
--- Fix - Plan purchase by guest customer
+Version 3.2.6, Mar 31, 2024
 
--- Version 2.0.1, January 02, 2022
-=====================================
--- New - Option to restrict user listing deletion
--- Fix - Plan payment status in admin all listings screen
--- Fix - Prevent submission when the order has no allowances
--- Fix - Error on activation on PHP v5.1 or lower
--- Fix - Listing description restriction from plan
--- Fix - Add listing form submission issue in some sites
--- Fix - Console error in listing form
--- Fix - Minor style issue
--- Fix - Guest checkout redirects with the wrong plan
--- Improve - Data structure
+Add - Compatibility with WooCommerce new order storage system (HPOS)
+Fix - Plan activation issue
+Fix - User dashboard issue
+Fix - Issue in restricting user submission
 
--- Version 2.0, November 21, 2021
-=====================================
--- New - Multiple active packages
--- Fix - Package validation and checkout redirection issue
--- Fix - Style issues
--- Improve - Overall performance
+Version 3.2.5, Nov 16, 2023
 
--- Version 1.5.6, July 15, 2021
-=====================================
--- Improve - Multi-site support
--- Fix - Listing goes to pending status even order status completed
+Fix - Gallery filed restriction in add listing form
 
--- Version 1.5.5, Jun 17, 2021
-=====================================
--- Fix - Checkout redirection when editing a paid listing
--- Fix - Featured listing issue with pay per listing
--- Fix - Style issues
--- Fix - Location limit issue
--- Fix - Issue with skip plan page for paid user option
--- Fix - Error with booking
--- Fix - Dynamic field issue in all plans page
--- Fix - Duplicate plan issue in change plan modal in dashboard
--- Rename - Some hooks
+Version 3.2.4, Aug 3, 2023
 
--- Version 1.5.4, April 11, 2021
-=====================================
--- Fix - Translation issues
--- Fix - PHP compatibility issue
--- Fix - Field loading issue in add listing
--- Fix - Plan assigning issue from admin listing form
--- Fix - Category exclude from plan
--- Fix - Responsive issue
--- Fix - Claim field saving issue
--- Fix - Listing status issue with free plan
--- Improve - Compatibility with Booking extension
+Fix - Pricing plan changing modal is not working with pay per listing
 
--- Version 1.5.3, March 9, 2021
-=====================================
--- Fix - Plan type saving issue
--- Fix - Error in single product page
--- Improve - Migration
+Version 3.2.3, Jul 25, 2023
 
--- Version 1.5.2, March 4, 2021
-=====================================
--- Fix - Edit listing field missing issue
+Fix - Pricing plan changing modal is not working with pay per listing
 
--- Version 1.5.1, March 3, 2021
-=====================================
--- Tweak - Improved plan migration
+Version 3.2.2, Jul 05, 2023
 
--- Version 1.5.0, March 1, 2021
-=====================================
--- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+Fix - Edited paid listing checkout redirection issue
+Tweak - Subscription renewal listing status
 
--- Version 1.4.2, July 17, 2020
-=====================================
--- Add - Pay Now link for non paid listings of user dashboard page
--- Fix - Listing expiration date issue when Pricing Plans disabled by admin options
--- Fix - Plan page skipping issue if user has multiple active packages
--- Fix - Admin data displaying issue
--- Improve - Page loading performance/load page specific content
--- Improve - File structure
+Version 3.2.1, May 14, 2023
 
--- Version 1.4.1, July 8, 2020
-=====================================
--- Fix - Wrong order data in User Dashboard page
--- Improve - Plan assigning from admin add listing form
--- Improve - Database query
+Fix - Wrong trial period issue in pricing plan page
 
--- Version 1.4.0, July 3, 2020
-=====================================
--- Fix - Translation issues
+Version 3.2.0, Jan 24, 2023
 
--- Version 1.3.9, June 26, 2020
-=====================================
--- Fix - Onetime token issue of renewal listing link
--- Fix - RTL style issues
--- Improve - User Dashboard
+Add - Restriction for dLawyers theme
+Add - Option to set Pricing Plan as virtual product
+Add - Support for order ‘Processing’ status
+Fix - Wrong 'valid for' in pricing plan page when WC Subscription in use
+Fix - Fresh active order is not considered the user as paid user
+Fix - Active plan checkout issue in renewal
+Fix - Assigned plan validation for expired listing
+Fix - Dashboard remaining allowance calculation
+Fix - Submission validation when WooCommerce Subscription in use
+Tweak - Hide dashboard tabs when user is not Author or Listing owner
+Tweak - Checked the assigned plan in Plan changing modal
 
--- Version 1.3.8, June 14, 2020
-=====================================
--- Fix - Data updating issue of admin Add Listing form
--- Improve - Code Standard
+Version 3.1.6, Nov 07, 2022
 
--- Version 1.3.7, June 13, 2020
-=====================================
--- Fix - Featured listing issue on plan change
--- Fix - Listing saving issue of admin add listing form
+Fix - Checkout issue with activated plans
 
--- Version 1.3.6, June 9, 2020
-=====================================
--- Tweak - Dashboard plan changing text
--- Improve - Assigning pricing plan from add listing form of administrator
--- Fix - Dashboard active package issue
+Version 3.1.5, Oct 13, 2022
 
--- Version 1.3.5, June 2, 2020
-=====================================
--- Fix - Plan upgrade, downgrade and renewal issue
--- Fix - Auto updating issue
+Fix : Textarea Character limit
+Fix : Listing not refreshing when downgrating to a free plan after expired form a paid plan
+Fix : Directory type nav issue when id specify in plans shortcode.
+
+Version 3.1.4, Oct 03, 2022
+
+Fix: Featured listing issue in renewal
+Fix: Issue in listing type only section
+Add: Icon Compatibility issue with directorist
+
+Version 3.1.3, August 14, 2022
+
+Fix - Error in active order verification
+Fix - Missing style in the edit product page
+Fix - Plan fields are not updating on type change
+Fix - Empty cart issue on listing renewal
+
+Version 3.1.2, July 19, 2022
+
+Add : compatibility with directorist latest version
+
+Version 3.1.0, April 1, 2022
+
+Fix - Listing Upgrade/Downgrade/Renewal with subscription plan
+Fix - Character limit in textarea field
+Fix - Main Query reseting issue in user dashboard
+Fix - Static day in trial period
+Fix - Fresh Pay Per Plan accessing issue
+
+Version 3.0, March 16, 2022
+
+Add - Integration with WooCommerce Subscription (Recurring Payment, Trial Period, Auto Expiration, Subscription Signup Fee)
+Fix - Description word limit in add listing form
+Improve - Style in all plans page
+
+Version 2.0.2, January 26, 2022
+
+Fix - Active pay per listing without listing redirection issue
+Fix - Active badge issue in plan changing pup-up
+Fix - Redirection when order has no allowance
+Fix - Plan purchase by guest customer
+
+Version 2.0.1, January 02, 2022
+
+New - Option to restrict user listing deletion
+Fix - Plan payment status in admin all listings screen
+Fix - Prevent submission when the order has no allowances
+Fix - Error on activation on PHP v5.1 or lower
+Fix - Listing description restriction from plan
+Fix - Add listing form submission issue in some sites
+Fix - Console error in listing form
+Fix - Minor style issue
+Fix - Guest checkout redirects with the wrong plan
+Improve - Data structure
+
+Version 2.0, November 21, 2021
+
+New - Multiple active packages
+Fix - Package validation and checkout redirection issue
+Fix - Style issues
+Improve - Overall performance
+
+Version 1.5.6, July 15, 2021
+
+Improve - Multisite support
+Fix - Listing goes to pending status even order status completed
+
+Version 1.5.5, Jun 17, 2021
+
+Fix - Checkout redirection when editing a paid listing
+Fix - Featured listing issue with pay per listing
+Fix - Style issues
+Fix - Location limit issue
+Fix - Issue with skip plan page for paid user option
+Fix - Error with booking
+Fix - Dynamic field issue in all plans page
+Fix - Duplicate plan issue in change plan modal in dashboard
+Rename - Some hooks
+
+Version 1.5.4, April 11, 2021
+
+Fix - Translation issues
+Fix - PHP compatibility issue
+Fix - Field loading issue in add listing
+Fix - Plan assigning issue from admin listing form
+Fix - Category exclude from plan
+Fix - Responsive issue
+Fix - Claim field saving issue
+Fix - Listing status issue with free plan
+Improve - Compatibility with Booking extension
+
+Version 1.5.3, March 9, 2021
+
+Fix - Plan type saving issue
+Fix - Error in single product page
+Improve - Migration
+
+Version 1.5.2, March 4, 2021
+
+Fix - Edit listing field missing issue
+
+Version 1.5.1, March 3, 2021
+
+Tweak - Improved plan migration
+
+Version 1.5.0, March 1, 2021
+
+Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+Version 1.4.2, July 17, 2020
+
+Add - Pay Now link for non paid listings of user dashboard page
+Fix - Listing expiration date issue when Pricing Plans disabled by admin options
+Fix - Plan page skipping issue if user has multiple active packages
+Fix - Admin data displaying issue
+Improve - Page loading performance/load page specific content
+Improve - File structure
+
+Version 1.4.1, July 8, 2020
+
+Fix - Wrong order data in User Dashboard page
+Improve - Plan assigning from admin add listing form
+Improve - Database query
+
+Version 1.4.0, July 3, 2020
+
+Fix - Translation issues
+
+Version 1.3.9, June 26, 2020
+
+Fix - Onetime token issue of renewal listing link
+Fix - RTL style issues
+Improve - User Dashboard
+
+Version 1.3.8, June 14, 2020
+
+Fix - Data updating issue of admin Add Listing form
+Improve - Code Standard
+
+Version 1.3.7, June 13, 2020
+
+Fix - Featured listing issue on plan change
+Fix - Listing saving issue of admin add listing form
+
+Version 1.3.6, June 9, 2020
+
+Tweak - Dashboard plan changing text
+Improve - Assigning pricing plan from add listing form of administrator
+Fix - Dashboard active package issue
+
+Version 1.3.5, June 2, 2020
+
+Fix - Plan upgrade, downgrade and renewal issue
+Fix - Auto updating issue

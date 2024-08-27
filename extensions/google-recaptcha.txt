@@ -1,18 +1,31 @@
 Google reCAPTCHA
 =====================================
 
--- Version 1.3.2, Oct 3, 2021
-=====================================
--- Add : Icon Compatibility issue with directorist
+Version 1.4.0, Aug 17, 2024
 
--- Version 1.3.1, May 3, 2021
-=====================================
--- Fix - Error in user registration form
+Add: support contact listing owner form
+Add: support review form
 
--- Version 1.3.0, March 1, 2021
-=====================================
--- Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+Version 1.3.4, Aug 06, 2023
 
--- Version 1.2.3, June 19, 2020
-=====================================
--- Fix - Error of frontend add listing form when reCAPTCHA is disabled for administrator.
+Fix: Verification error even the ReCaptcha is disabled in the listing form
+
+Version 1.3.3, Apr 30, 2023
+
+Fix : Disabling reCaptcha in Add Listing form is not working
+
+Version 1.3.2, Oct 3, 2021
+
+Add : Icon Compatibility issue with directorist
+
+Version 1.3.1, May 3, 2021
+
+Fix - Error in user registration form
+
+Version 1.3.0, March 1, 2021
+
+Add - Directorist 7.0 support, now compatible with form builder and multi-directory
+
+Version 1.2.3, June 19, 2020
+
+Fix - Error of frontend add listing form when reCAPTCHA is disabled for administrator.
