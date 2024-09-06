@@ -1,6 +1,25 @@
 OneListing WordPress Theme
 ===========================
 
+August 26, 2024 ( Version 1.32 )
+==============================================
+-- Fixed single listing tagline issue
+-- Fixed all listing elementor widget issue
+-- Fixed single listing tagline issue
+-- Fixed all listing slider image ratio issue
+
+March 21 , 2024 ( Version 1.31 )
+==============================================
+-- Fixed header login & registration modal issue on add listing page
+
+January 10  , 2024 ( Version 1.30 )
+==============================================
+-- Fixed header login & registration modal issue
+
+January 10  , 2024 ( Version 1.29 )
+==============================================
+-- Fixed search result issue
+
 December 28, 2023 ( Version 1.27 )
 ==============================================
 -- Fixed single listing custom textarea issue
