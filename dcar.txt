@@ -1,6 +1,38 @@
 dCar WordPress Theme
 ==========================
 
+September 02, 2024 ( Version 1.21 )
+================================================
+-- Fixed add-listing instance search issue
+-- Fixed milage search field issue
+
+August 26, 2024 ( Version 1.20 )
+================================================
+-- Fixed add-listing URL validation issue
+-- Added support directorist update template
+
+ March 21 , 2024 ( Version 1.19 )
+================================================
+-- Fixed modal issue on add-listing page
+-- Fixed login & registration issue on add-listing form
+
+February 06, 2024 ( Version 1.18 )
+================================================
+-- Fixed add-listing modal issue
+-- Fixed login & registration issue on add-listing form
+
+January 10, 2024 ( Version 1.17 )
+============================================
+-- Fixed login modal issue
+-- Fixed php warning issue
+-- Removed unnecessary scripts
+
+September 26, 2023 ( Version 1.16 )
+============================================
+-- Fixed header author nav-link issue
+-- Fixed dashboard style issue
+-- Improved recovery-password input
+
 September 12, 2023 ( Version 1.15 )
 ============================================
 -- Fixed recovery password issue
