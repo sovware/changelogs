@@ -1,6 +1,12 @@
 Pricing Plans
 =====================================
 
+Version 2.3.9, Sep 14, 2024
+
+Fix - Listing renewal issue with pricing plan
+Fix - Renew and pay now link text fix in dashboard
+Fix - Style issue
+
 Version 2.3.8, Aug 27, 2024
 
 Fix - Listing auto expiration issue when a valid subscription is assigned

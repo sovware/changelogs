@@ -1,6 +1,12 @@
 WooCommerce Pricing Plans
 =====================================
 
+Version 3.3.0, Sep 14, 2024
+
+Add - Support for WC block checkout
+Fix - Remaining allowance is not count down in first submission in a package
+Fix - Renew and pay now link text fix in dashboard
+
 Version 3.2.9, Aug 27, 2024
 
 Fix - Listing auto expiration issue when a valid subscription is assigned
