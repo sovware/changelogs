@@ -1,6 +1,10 @@
 Claim Listing
 =====================================
 
+-- Version 1.5.8 Sep 15, 2024
+=====================================
+-- Fix : Issue with claim listing section in builder
+
 -- Version 1.5.2 Oct 03, 2022
 =====================================
 -- Add : Icon Compatibility issue with directorist
