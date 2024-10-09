@@ -1,6 +1,15 @@
 OneListing WordPress Theme
 ===========================
 
+October 08, 2024 ( Version 1.33 )
+==============================================
+-- Added Directorist plugin update notice
+-- Added woocommerce support
+-- Fixed single listing contact modal issue
+-- Fixed single listing claim badge duplicate issue
+-- Fixed reset password issue on dashboard page
+-- Fixed SEO plugin conflict issue
+
 August 26, 2024 ( Version 1.32 )
 ==============================================
 -- Fixed single listing tagline issue
