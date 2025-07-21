@@ -1,6 +1,10 @@
 dService WordPress Theme
 =========================
 
+July 21, 2024 ( Version 2.7 )
+============================================
+-- Fixed custom single listing layout issue
+
 August 24, 2023 ( Version 1.25 )
 ============================================
 -- Added directorist support for login & registration modal
