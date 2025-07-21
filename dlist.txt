@@ -1,7 +1,11 @@
 dList WordPress Theme
 =========================
 
-July, 2025 ( Version 2.5 )
+July 21, 2025 ( Version 2.6 )
+============================================
+-- Fixed custom single listing layoyt issue
+
+July 07, 2025 ( Version 2.5 )
 ============================================
 -- Fixed custom single listing style issue
 
