@@ -1,6 +1,13 @@
 dClassified WordPress Theme
 =============================
 
+July 30, 2025 ( Version 2.0.10 )
+==============================================
+-- Fixed single listing report issue
+-- Fixed textdomain php-notice
+-- Fixed site-specific icon issue
+-- Improved custom singel listing layout
+
 December 28, 2023 ( Version 1.19 )
 ==============================================
 -- Fixed single listing custom textarea issue
