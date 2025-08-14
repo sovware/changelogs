@@ -1,7 +1,7 @@
 Pricing Plans
 =====================================
 
-Version 3.3.5, July 07, 2025
+Version 3.3.6, July 07, 2025
 =======================================
 Fix: Auto-renewal hidden issue 
 
