@@ -3,7 +3,7 @@ Pricing Plans
 
 Version 3.3.5, July 07, 2025
 =======================================
-Fixed - Direct purchase issue with free plan 
+Fix: Auto-renewal hidden issue 
 
 Version 3.3.4, July 07, 2025
 =======================================
