@@ -1,6 +1,9 @@
 WooCommerce Pricing Plans
 =====================================
 
+Version 3.3.6, Aug 14, 2025
+Fix: Auto-renewal hidden issue 
+
 Version 3.3.0, Sep 14, 2024
 
 Add - Support for WC block checkout
