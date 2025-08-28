@@ -1,6 +1,19 @@
 dCar WordPress Theme
 ==========================
-
+January 16, 2025 ( Version 2.0.10 )
+================================================
+-- Added: Enhanced automotive directory features with vehicle comparison
+-- Added: Advanced vehicle comparison and specification features
+-- Added: Improved dealer and automotive service provider profiles
+-- Added: Enhanced car search by make, model, year, and price
+-- Changed: Updated styling for modern automotive presentation
+-- Changed: Enhanced car detail pages with comprehensive vehicle information
+-- Changed: Improved dealer contact and inquiry management features
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed vehicle specification and pricing display
+-- Fixed: Improved dealer communication and inquiry features
+-- Security: Enhanced dealer privacy and customer inquiry protection
+================================================
 September 02, 2024 ( Version 1.21 )
 ================================================
 -- Fixed add-listing instance search issue
