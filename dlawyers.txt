@@ -1,5 +1,18 @@
 dLawyers WordPress Theme
 =========================
+January 16, 2025 ( Version 2.0.9 )
+================================================
+-- Added: Enhanced legal directory features for law firms and attorneys
+-- Added: Professional consultation booking features
+-- Added: Advanced legal practice area categorization
+-- Added: Enhanced lawyer search and specialization filter capabilities
+-- Changed: Updated styling for professional legal presentation
+-- Changed: Enhanced lawyer profile pages with comprehensive professional information
+-- Changed: Improved client testimonial and case study display
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed professional credential display functionality
+-- Fixed: Improved consultation booking and contact features
+-- Security: Improved client privacy and confidential information handling
 
 December 28, 2023 ( Version 1.21 )
 ==============================================
