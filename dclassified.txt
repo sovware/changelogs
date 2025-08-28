@@ -1,7 +1,20 @@
 dClassified WordPress Theme
 =============================
-
+January 16, 2025 ( Version 2.0.11 )
+================================================
+-- Added: Enhanced classified directory features with advanced ad management
+-- Added: Advanced ad posting and management features for users
+-- Added: Improved messaging system between buyers and sellers
+-- Added: Enhanced classified search by category, location, and price
+-- Changed: Updated styling for modern classified ad presentation
+-- Changed: Enhanced classified ad detail pages with comprehensive information
+-- Changed: Improved user dashboard for ad management and communication
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed ad posting and submission workflow
+-- Fixed: Improved messaging and notification functionality
+-- Security: Enhanced user privacy and transaction security features
 July 30, 2025 ( Version 2.0.10 )
+
 ==============================================
 -- Fixed single listing report issue
 -- Fixed textdomain php-notice
