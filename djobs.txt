@@ -1,5 +1,18 @@
 dJobs WordPress Theme
 =========================
+January 16, 2025 ( Version 2.0.9 )
+================================================
+-- Added: Enhanced job directory and career management functionality
+-- Added: Advanced job application tracking and management
+-- Added: Employer dashboard for job posting and candidate management
+-- Added: Enhanced job search and filter by location, category, and salary
+-- Changed: Updated styling for modern job board presentation
+-- Changed: Enhanced job detail pages with comprehensive job information
+-- Changed: Improved candidate profile and resume upload features
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed job alert and notification functionality
+-- Fixed: Improved job posting and submission workflow
+-- Security: Enhanced candidate privacy and application data protection
 
 December 28, 2023 ( Version 1.18 )
 ==============================================
