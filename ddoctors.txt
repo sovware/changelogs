@@ -1,5 +1,19 @@
 dDoctors WordPress Theme
 ==========================
+January 16, 2025 ( Version 2.0.11 )
+================================================
+-- Added: Enhanced medical directory features for doctors and hospitals
+-- Added: Advanced appointment booking and consultation features
+-- Added: Medical practice and hospital information management
+-- Added: Enhanced doctor search by specialization and location
+-- Changed: Updated styling for professional medical presentation
+-- Changed: Enhanced doctor profile pages with comprehensive medical information
+-- Changed: Improved patient testimonial and medical credential display
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed medical credential and qualification display
+-- Fixed: Improved patient contact and consultation booking features
+-- Security: Improved patient privacy and medical information protection
+
 
 December 28, 2023 ( Version 1.22 )
 ==============================================
