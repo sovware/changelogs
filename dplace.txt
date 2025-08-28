@@ -1,5 +1,18 @@
 dPlace WordPress Theme
 ==========================
+January 16, 2025 ( Version 2.0.14 )
+================================================
+-- Added: Enhanced place directory with location-based search results
+-- Added: Improved place discovery and recommendation features
+-- Added: Better location mapping and direction features
+-- Added: Advanced place categorization and service filtering
+-- Changed: Updated styling for modern place presentation
+-- Changed: Enhanced place detail pages with comprehensive information layout
+-- Changed: Improved location accuracy and mapping features
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed place contact and review functionality
+-- Fixed: Resolved issues with place gallery and map integration
+-- Security: Enhanced data validation for place submissions
 
 December 28, 2023 ( Version 1.17 )
 ==============================================
