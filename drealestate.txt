@@ -1,5 +1,18 @@
 dRealEstate WordPress Theme
 ============================
+January 16, 2025 ( Version 2.0.9 )
+================================================
+-- Added: Enhanced property listing and management functionality
+-- Added: Advanced property comparison features
+-- Added: Improved property search and filter capabilities
+-- Added: Enhanced property gallery and map integration
+-- Changed: Updated styling for modern real estate presentation
+-- Changed: Enhanced property detail pages with better information layout
+-- Changed: Optimized property categories and listing types management
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed property contact form functionality
+-- Fixed: Addressed performance bottlenecks in property image loading
+-- Security: Enhanced data validation for property submissions
 
 September 12, 2023 ( Version 1.20 )
 ============================================
