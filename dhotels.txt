@@ -1,5 +1,18 @@
 dHotels WordPress Theme
 =========================
+January 16, 2025 ( Version 2.0.10 )
+================================================
+-- Added: Enhanced hotel directory features with booking integration
+-- Added: Advanced booking integration and reservation features
+-- Added: Hotel review and rating system improvements
+-- Added: Enhanced hotel search by location, amenities, and price
+-- Changed: Updated styling for modern hotel presentation
+-- Changed: Enhanced hotel detail pages with comprehensive accommodation information
+-- Changed: Improved booking workflow and guest experience features
+-- Fixed: Resolved compatibility issues with latest WordPress
+-- Fixed: Fixed hotel availability and pricing display
+-- Fixed: Improved reservation and contact functionality
+-- Security: Enhanced guest privacy and booking data protection
 
 September 12, 2023 ( Version 1.12 )
 ============================================
