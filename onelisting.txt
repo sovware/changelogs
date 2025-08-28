@@ -1,5 +1,17 @@
 OneListing WordPress Theme
 ===========================
+January 16, 2025 ( Version 2.0.13 )
+================================================
+-- Added: Enhanced directory listing functionality with improved search capabilities
+-- Added: Better responsive design optimization for all device types
+-- Added: Improved performance and loading speeds
+-- Changed: Updated styling and design elements for modern presentation
+-- Changed: Enhanced user interface components for better navigation
+-- Changed: Optimized code structure and organization
+-- Fixed: Resolved compatibility issues with latest WordPress version
+-- Fixed: Fixed responsive design issues on mobile devices
+-- Fixed: Addressed performance bottlenecks and minor styling inconsistencies
+-- Security: Updated security measures and enhanced data validation
 
 October 08, 2024 ( Version 1.33 )
 ==============================================
