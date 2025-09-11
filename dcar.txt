@@ -1,5 +1,11 @@
 dCar WordPress Theme
 ==========================
+
+================================================
+September 11, 2025 ( Version 2.0.11 )
+================================================
+-- Fixed contact form design issue
+
 January 16, 2025 ( Version 2.0.10 )
 ================================================
 -- Added: Enhanced automotive directory features with vehicle comparison
