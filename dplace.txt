@@ -1,7 +1,8 @@
 dPlace WordPress Theme
 September 15, 2025 ( Version 2.0.15 )
 ==============================================
--- Fixed image popup issue on single listing
+-- Fixed: image popup issue on single listing
+
 January 16, 2025 ( Version 2.0.14 )
 ================================================
 -- Added: Enhanced place directory with location-based search results
