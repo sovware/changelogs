@@ -1,5 +1,8 @@
 dRealEstate WordPress Theme
 ============================
+September 15, 2025 ( Version 2.0.10 )
+============================================
+-- Contact form added
 January 16, 2025 ( Version 2.0.9 )
 ================================================
 -- Added: Enhanced property listing and management functionality
