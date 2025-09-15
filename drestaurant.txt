@@ -2,12 +2,12 @@ dRestaurant WordPress Theme
 ============================
 September 15, 2025 ( Version 2.0.10 )
 ==============================================
--- Fixed recent review issue
+-- Fixed Contact form
 January 16, 2025 ( Version 2.0.9 )
 ================================================
 -- Added: Enhanced restaurant directory features with improved menu display
 -- Added: Better mobile dining browsing experience optimization
--- Added: Improved restaurant information layout and gallery features
+--  Added: Improved restaurant information layout and gallery features
 -- Changed: Updated styling for modern restaurant presentation
 -- Changed: Enhanced search and filter functionality for restaurant discovery
 -- Changed: Updated restaurant category and cuisine type management
