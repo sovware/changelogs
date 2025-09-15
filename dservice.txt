@@ -2,7 +2,7 @@ dService WordPress Theme
 =========================
 September 15, 2025 ( Version 2.9 )
 ============================================
--- Fixed Contact form
+-- Fixed: Contact form
 
 July 21, 2024 ( Version 2.7 )
 ============================================
