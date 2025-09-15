@@ -1,7 +1,7 @@
 dDoctors WordPress Theme
 September 15, 2025 ( Version 2.0.12 )
 ==============================================
--- update issue
+-- Fixed update issue
 
 January 16, 2025 ( Version 2.0.11 )
 ================================================
