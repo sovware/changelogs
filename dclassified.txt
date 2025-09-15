@@ -1,9 +1,9 @@
 dClassified WordPress Theme
 September 14, 2025 ( Version 2.0.12 )
 ============================================
--- Fixed demo-importer issue
--- Fixed formgent input field issue
--- Version upgrade
+-- Fixed: demo-importer issue
+-- Fixed: formgent input field issue
+-- Version: upgrade
 =============================
 January 16, 2025 ( Version 2.0.11 )
 ================================================
