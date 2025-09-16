@@ -2,7 +2,7 @@ dJobs WordPress Theme
 =========================
 September 16, 2025 ( Version 2.0.10 )
 ==============================================
--- Fixed Contact form
+-- Fixed Contact form issue
 
 January 16, 2025 ( Version 2.0.9 )
 ================================================
