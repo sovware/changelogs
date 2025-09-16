@@ -1,5 +1,9 @@
 dJobs WordPress Theme
 =========================
+September 16, 2025 ( Version 2.0.10 )
+==============================================
+-- Fixed Contact form
+
 January 16, 2025 ( Version 2.0.9 )
 ================================================
 -- Added: Enhanced job directory and career management functionality
