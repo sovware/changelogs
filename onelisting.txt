@@ -1,5 +1,9 @@
 OneListing WordPress Theme
 ===========================
+September 16, 2025 ( Version 2.0.14)
+================================================
+-- Fixed: formGent issue
+
 January 16, 2025 ( Version 2.0.13 )
 ================================================
 -- Added: Enhanced directory listing functionality with improved search capabilities
