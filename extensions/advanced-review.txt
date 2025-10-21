@@ -1,0 +1,6 @@
+Directorist - Advanced Review
+=====================================
+
+-- Version 1.0.0, Oct 21, 2025
+=====================================
+-- Initial Release
