@@ -1,5 +1,8 @@
 dService WordPress Theme
 =========================
+-- Fixed screenshot issue
+November 06, 2025 ( Version 3.0 )
+============================================
 September 15, 2025 ( Version 2.9 )
 ============================================
 -- Fixed: Contact form

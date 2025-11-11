@@ -1,5 +1,10 @@
 Pricing Plans
 =====================================
+Removed: unused files
+Fix: update true fee manager option value 
+
+Version 3.3.7, November 05, 2025
+=======================================
 
 Version 3.3.6, July 07, 2025
 =======================================
