@@ -1,4 +1,13 @@
 dClassified WordPress Theme
+
+November 16, 2025 ( Version 2.0.13 )
+============================================
+-- Fixed: single listing header style issue
+-- Updated: Merge branch 'gulp-to-wp-scripts' into v8-beta
+-- Fixed: single-template header issue
+-- Removed: unnecessery code
+-- Removed: removed single listing header hook
+
 September 14, 2025 ( Version 2.0.12 )
 ============================================
 -- Fixed: demo-importer issue
