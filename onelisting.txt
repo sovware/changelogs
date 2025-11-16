@@ -1,5 +1,9 @@
 OneListing WordPress Theme
 ===========================
+November 16, 2025 ( Version 2.0.15)
+================================================
+--Fixed: single listing header style issue & updated pricing plan template
+--Update:version upgraded
 September 16, 2025 ( Version 2.0.14)
 ================================================
 -- Fixed: formGent issue
