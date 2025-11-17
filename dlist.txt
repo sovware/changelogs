@@ -1,6 +1,13 @@
 dList WordPress Theme
 =========================
 
+November 17, 2025 ( Version 2.8 )
+============================================
+-- updated: version
+-- Fixed: php notice issue
+-- Added: wp-script
+-- Removed: gulp script
+
 July 21, 2025 ( Version 2.6 )
 ============================================
 -- Fixed custom single listing layoyt issue
