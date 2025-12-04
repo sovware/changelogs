@@ -1,5 +1,13 @@
 dList WordPress Theme
 =========================
+December 02, 2025 ( Version 2.8 )
+============================================
+--updated: version upgrated
+--fixed: updated all listing
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--fixed: back button added to single listing page
+--skiped: webpack zip archive skiped
 
 November 17, 2025 ( Version 2.8 )
 ============================================
