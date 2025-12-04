@@ -1,5 +1,12 @@
 Direo WordPress Theme
 =========================
+December 02, 2023 ( Version 3.0.2 )
+============================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--fixed: back button added to single listing page
+--skiped: webpack zip archive skiped
 
 August 24, 2023 ( Version 2.30 )
 ============================================
