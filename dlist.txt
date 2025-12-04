@@ -1,6 +1,6 @@
 dList WordPress Theme
 =========================
-December 02, 2025 ( Version 2.8 )
+December 02, 2025 ( Version 3.0 )
 ============================================
 --updated: version upgrated
 --fixed: updated all listing
