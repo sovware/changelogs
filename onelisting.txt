@@ -1,5 +1,12 @@
 OneListing WordPress Theme
 ===========================
+December 02, 2025 ( Version 2.0.19)
+================================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--skiped: webpack zip archive skiped
+
 November 16, 2025 ( Version 2.0.15)
 ================================================
 --Fixed: single listing header style issue & updated pricing plan template
