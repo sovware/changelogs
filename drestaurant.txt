@@ -1,5 +1,12 @@
 dRestaurant WordPress Theme
 ============================
+December 02, 2025 ( Version 2.0.13 )
+==============================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--skiped: webpack zip archive skiped
+
 September 15, 2025 ( Version 2.0.10 )
 ==============================================
 -- Fixed Contact form
