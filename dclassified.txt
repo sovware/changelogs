@@ -4,7 +4,6 @@ dClassified WordPress Theme
 --updated: version upgrated
 --fixed: improved demo import system & Updated version
 --fixed: added wp-script
---fixed: back button added to single listing page
 --skiped: webpack zip archive skiped
 
 --November 16, 2025 ( Version 2.0.13 )
