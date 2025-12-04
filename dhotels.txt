@@ -1,5 +1,13 @@
 dHotels WordPress Theme
 =========================
+December 02, 2025 ( Version 1.14 )
+============================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--fixed: back button added to single listing page
+--skiped: webpack zip archive skiped
+
 September 16, 2025 ( Version 1.12 )
 ============================================
 -- Fixed recovery password issue
