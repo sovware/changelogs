@@ -1,5 +1,12 @@
 dService WordPress Theme
 =========================
+December 02, 2025 ( Version 3.2 )
+============================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--skiped: webpack zip archive skiped
+
 -- Fixed screenshot issue
 November 06, 2025 ( Version 3.0 )
 ============================================
