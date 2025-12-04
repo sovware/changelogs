@@ -1,5 +1,12 @@
 dLawyers WordPress Theme
 =========================
+December 02, 2025 ( Version 2.0.13 )
+================================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--skiped: webpack zip archive skiped
+
 January 16, 2025 ( Version 2.0.10 )
 ================================================
 -- Added: Contact form
