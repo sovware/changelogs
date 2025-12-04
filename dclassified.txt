@@ -1,6 +1,13 @@
 dClassified WordPress Theme
+--December 02, 2025 ( Version 2.0.16 )
+============================================
+--updated: version upgrated
+--fixed: improved demo import system & Updated version
+--fixed: added wp-script
+--fixed: back button added to single listing page
+--skiped: webpack zip archive skiped
 
-November 16, 2025 ( Version 2.0.13 )
+--November 16, 2025 ( Version 2.0.13 )
 ============================================
 -- Fixed: single listing header style issue
 -- Updated: Merge branch 'gulp-to-wp-scripts' into v8-beta
@@ -8,13 +15,13 @@ November 16, 2025 ( Version 2.0.13 )
 -- Removed: unnecessery code
 -- Removed: removed single listing header hook
 
-September 14, 2025 ( Version 2.0.12 )
+--September 14, 2025 ( Version 2.0.12 )
 ============================================
 -- Fixed: demo-importer issue
 -- Fixed: formgent input field issue
 -- Version: upgrade
 =============================
-January 16, 2025 ( Version 2.0.11 )
+--January 16, 2025 ( Version 2.0.11 )
 ================================================
 -- Added: Enhanced classified directory features with advanced ad management
 -- Added: Advanced ad posting and management features for users
@@ -27,7 +34,7 @@ January 16, 2025 ( Version 2.0.11 )
 -- Fixed: Fixed ad posting and submission workflow
 -- Fixed: Improved messaging and notification functionality
 -- Security: Enhanced user privacy and transaction security features
-July 30, 2025 ( Version 2.0.10 )
+--July 30, 2025 ( Version 2.0.10 )
 
 ==============================================
 -- Fixed single listing report issue
@@ -35,19 +42,19 @@ July 30, 2025 ( Version 2.0.10 )
 -- Fixed site-specific icon issue
 -- Improved custom singel listing layout
 
-December 28, 2023 ( Version 1.19 )
+--December 28, 2023 ( Version 1.19 )
 ==============================================
 -- Fixed single listing custom textarea issue
 
-September 12, 2023 ( Version 1.18 )
+--September 12, 2023 ( Version 1.18 )
 ============================================
 -- Fixed recovery password issue
 
-August 28, 2023 ( Version 1.17 )
+--August 28, 2023 ( Version 1.17 )
 ====================================================
 -- Fixed login registration modal scripting issue
 
-August 24, 2023 ( Version 1.16 )
+--August 24, 2023 ( Version 1.16 )
 ============================================
 -- Added directorist support for login & registration modal
 
