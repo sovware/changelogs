@@ -1,10 +1,14 @@
 dClassified WordPress Theme
+--December 14, 2025 ( Version 2.0.17 )
+============================================
+--Updated: version upgrated
+
 --December 02, 2025 ( Version 2.0.16 )
 ============================================
---updated: version upgrated
---fixed: improved demo import system & Updated version
---fixed: added wp-script
---skiped: webpack zip archive skiped
+--Updated: version upgrated
+--Fixed: improved demo import system & Updated version
+--Fixed: added wp-script
+--Skiped: webpack zip archive skiped
 
 --November 16, 2025 ( Version 2.0.13 )
 ============================================
