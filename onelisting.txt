@@ -1,5 +1,7 @@
 OneListing WordPress Theme
 ===========================
+December 30, 2025 ( Version 2.0.21)
+===========================
 December 02, 2025 ( Version 2.0.19)
 ================================================
 --updated: version upgrated
