@@ -1,5 +1,9 @@
 Live Chat
 =====================================
+-- Version 2.4.1, Jan 05, 2026
+-- Version update
+-- Fixed notification email on user sending issue
+=====================================
 
 -- Version 1.3.6, Oct 03, 2022
 =====================================
