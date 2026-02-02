@@ -1,6 +1,13 @@
 dPlace WordPress Theme
+
+February 02, 2026 ( Version 2.0.19 )
+==============================================
+--updated: version upgrated
+--fixed: Typography issue fix
+
 December 02, 2025 ( Version 2.0.18 )
 ==============================================
+
 --updated: version upgrated
 --fixed: improved demo import system & Updated version
 --fixed: added wp-script
