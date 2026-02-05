@@ -1,6 +1,10 @@
 Directorist Coupon
 =====================================
 
+-- Version 2.4, February 05, 2026
+=====================================
+-- Fixed: decimal number issue
+
 -- Version 1.1.1, November 23, 2021
 =====================================
 -- Add - Integration with Stripe gateway discount coupon
