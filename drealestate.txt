@@ -1,5 +1,9 @@
 dRealEstate WordPress Theme
 
+February 09, 2026 ( Version 2.0.14 )
+============================================
+--updated: version upgrated
+
 December 02, 2025 ( Version 2.0.13 )
 ============================================
 --updated: version upgrated
