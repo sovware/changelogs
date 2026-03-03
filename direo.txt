@@ -1,5 +1,11 @@
 Direo WordPress Theme
 =========================
+--March 03, 2026 (Version 3.0.3)
+================================================
+--[Fixed] Directorist responsive search form
+--[Update] Formgent default style remove
+--[Update] Enhence styles
+
 December 02, 2023 ( Version 3.0.2 )
 ============================================
 --updated: version upgrated

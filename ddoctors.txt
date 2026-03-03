@@ -1,4 +1,10 @@
 dDoctors WordPress Theme
+--March 03, 2026 (Version 2.0.17)
+================================================
+--[Fixed] Directorist responsive search form
+--[Update] Formgent default style remove
+--[Update] Enhence styles
+
 December 02, 2025 ( Version 2.0.16 )
 ==============================================
 --updated: version upgrated

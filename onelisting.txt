@@ -1,5 +1,11 @@
 OneListing WordPress Theme
 ===========================
+--March 03, 2026 (Version 2.0.21)
+================================================
+--[Fixed] Directorist responsive search form
+--[Update] Formgent default style remove
+--[Update] Enhence styles
+
 December 30, 2025 ( Version 2.0.21)
 ===========================
 December 02, 2025 ( Version 2.0.19)

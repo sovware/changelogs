@@ -1,5 +1,11 @@
 dRealEstate WordPress Theme
 
+--March 03, 2026 (Version 2.0.15)
+================================================
+--[Fixed] Directorist responsive search form
+--[Update] Formgent default style remove
+--[Update] Enhence styles
+
 February 09, 2026 ( Version 2.0.14 )
 ============================================
 --updated: version upgrated

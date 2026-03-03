@@ -1,5 +1,11 @@
 dCar WordPress Theme
 ==========================
+--March 03, 2026 (Version 2.0.17)
+================================================
+--[Fixed] Directorist responsive search form
+--[Update] Formgent default style remove
+--[Update] Enhence styles
+
 --February 15, 2026 ( Version 2.0.15 )
 ================================================
 --Fixed: submenu arrow icon
