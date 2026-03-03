@@ -1,6 +1,6 @@
 dService WordPress Theme
 =========================
-March 03, 2026 (Version 3.4)
+March 03, 2026 (Version 3.5)
 ================================================
 --[Fixed] Directorist responsive search form
 --[Update] Formgent default style remove
