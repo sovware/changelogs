@@ -1,6 +1,6 @@
 dList WordPress Theme
 =========================
---March 03, 2026 (Version 3.0.1)
+March 03, 2026 (Version 3.0.1)
 ================================================
 --[Fixed] Directorist responsive search form
 --[Update] Formgent default style remove

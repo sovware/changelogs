@@ -1,6 +1,6 @@
 dJobs WordPress Theme
 =========================
---March 03, 2026 (Version 2.0.14)
+March 03, 2026 (Version 2.0.14)
 ================================================
 --[Fixed] Directorist responsive search form
 --[Update] Formgent default style remove
