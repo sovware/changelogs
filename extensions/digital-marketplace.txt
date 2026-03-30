@@ -1,6 +1,8 @@
 Directorist - Digital Marketplace
 =====================================
-
+-- Version 2.1.2, March 30, 2026
+--Fix: Refactor price tiers retrieval in DDW_Purchase_Download widget
+=====================================
 -- Version 1.0.0, Act 26, 2022
 =====================================
 -- Initial Release
