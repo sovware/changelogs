@@ -1,0 +1,6 @@
+Directorist - Divi Integration
+=====================================
+
+-- Version 1.0.0, June 16, 2026
+=====================================
+-- Initial Release
