@@ -1,0 +1,6 @@
+Directorist - M-Pesa Payment Gateway
+=====================================
+
+-- Version 1.0.0, Sep 03, 2026
+=====================================
+-- Initial Release
