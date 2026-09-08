@@ -3,6 +3,11 @@ Pricing Plans
 Removed: unused files
 Fix: update true fee manager option value
 
+Version 4.1.1, Sep 8, 2026
+======================================
+Fixed - Restored package action menus for active packages in the listing owner dashboard
+Fixed - Ensured package dashboard configuration is available before the frontend script runs
+
 Version 4.1.0, Sep 8, 2026
 ======================================
 Added - Multiple active pricing plans for the same directory type
