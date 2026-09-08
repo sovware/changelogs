@@ -1,7 +1,42 @@
 Pricing Plans
 =====================================
 Removed: unused files
-Fix: update true fee manager option value 
+Fix: update true fee manager option value
+
+Version 4.1.0, Sep 8, 2026
+======================================
+Added - Multiple active pricing plans for the same directory type
+Added - Listing-level plan assignment, reassignment, removal, and renewal
+Added - Recovery tools for missing, deleted, and unassigned plans
+Added - Listing-plan metadata migration and background recovery
+Added - Plan details and actions in the listing owner dashboard
+Added - Package and listing renewal actions
+Added - REST hooks for pricing plan data
+Added - Recoverable past-due state for subscription packages
+Added - Legacy package billing date repair tools
+Changed - Redesigned admin listing-plan metabox
+Changed - Improved package usage and plan quota checks
+Changed - Improved plan switching, renewal, and assignment workflows
+Changed - Improved subscription screens and plan selection
+Changed - Improved subscription renewal reconciliation
+Changed - Updated renewal and activation email handling
+Changed - Improved package repair and migration notices
+Changed - Updated minimum supported Directorist version to 8.9.4
+Changed - Updated translations and multiple-plan documentation
+Fix - Legacy package billing dates being overwritten during migration
+Fix - Checkout issues with deleted or inactive pricing plans
+Fix - Package notices appearing during listing previews
+Fix - Listing reassignment issues
+Fix - Plan quota enforcement issues
+Fix - Listing editing without an active package
+Fix - Package activation, expiration, renewal, and trial issues
+Fix - Assignment-order queue issues
+Fix - Orphaned legacy packages, plans, and usage records
+Fix - Plan deletion safeguards
+Fix - Directory status and featured-field handling
+Fix - Pricing plan notices and UI strings
+Fix - Package activation and subscription email templates
+Fix - Admin pricing page titles and plan selection labels
 
 Version 3.3.7, November 05, 2025
 =======================================
