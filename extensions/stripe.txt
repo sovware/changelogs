@@ -1,6 +1,16 @@
 Stripe Payment Gateway
 =====================================
 
+-- Version 3.0.1, Sep 10, 2026
+
+-- Add : Recovery for paid Stripe subscription invoices when renewal webhooks are delayed or missed.
+-- Add : Restored the legacy subscription update webhook endpoint for subscriptions created before migration.
+-- Add : A webhook-received action for integrations that need to observe Stripe events.
+-- Fix : Migrated recurring packages not renewing after Stripe collected payment.
+-- Fix : Checkout failures for Stripe accounts using Managed Payments.
+-- Fix : Stale webhook registrations remaining locally after the Stripe endpoint was removed.
+-- Fix : Prevented Stripe from booting with an inactive, incompatible, or incomplete Directorist installation.
+
 -- Version 2.5.6, Oct 03, 2022
 =====================================
 -- Add : Icon Compatibility issue with directorist
