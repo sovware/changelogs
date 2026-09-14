@@ -1,6 +1,11 @@
 Directorist - Advanced Review
 =====================================
 
+-- Version 1.0.4, Sep 14, 2026
+=====================================
+-- Fix: review summary and empty-state text translation
+-- Fix: singular and plural review counts for zero, one, and multiple reviews
+
 -- Version 1.0.0, Oct 21, 2025
 =====================================
 -- Initial Release
