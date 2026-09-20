@@ -1,6 +1,46 @@
 Directorist - Divi Integration
 =====================================
 
--- Version 1.0.0, June 16, 2026
+-- Version 1.1.5, September 13, 2026
 =====================================
--- Initial Release
+-- Added map height and zoom controls and Business Hours support for Theme Builder.
+-- Fixed Gallery extension rendering, lightbox navigation, and visual editor previews.
+-- Aligned listing badges with Directorist core conditions.
+-- Improved responsive search fields, directory tabs, archive toolbars, and filter panels.
+-- Improved complete-site imports, search field ordering, and location links.
+
+-- Version 1.1.4, September 2, 2026
+=====================================
+-- Imported complete Divi website packages.
+-- Fixed archive and homepage modal context, reset, and dropdown placement.
+-- Fixed selected archive view icon color.
+-- Isolated Divi package identities during import.
+
+-- Version 1.1.3, August 24, 2026
+=====================================
+-- Fixed Link Directory module front-end/editor alignment and responsive card layout.
+-- Fixed listing number icon alignment so icons stay centered with multi-line values.
+
+-- Version 1.1.2, August 18, 2026
+=====================================
+-- Added icon picker support for static listing field icons while preserving Directorist dynamic category and custom-field icons.
+-- Fixed category icons to use Directorist term icons with a folder fallback.
+-- Improved tag wrapping, link-directory mobile width, custom-field labels, and number prepend/append output.
+
+-- Version 1.1.1, August 10, 2026
+=====================================
+-- Updated release package for the latest version.
+
+-- Version 1.1, August 6, 2026
+=====================================
+-- Added Homepage Search Loop and expanded listing/archive builder support.
+-- Added complete portable Divi website imports with clearer template condition labels and requirement reporting.
+-- Added Author Profile Template support and expanded author/listing card child modules.
+-- Added enhanced Pricing Plans modules with tabbed pricing plan support.
+-- Added Listings Custom Badge module and new icon visibility controls for listing badges.
+-- Improved All Categories and All Locations modules with better taxonomy templates, location filtering, and image-aware card styling.
+-- Fixed favorite badge state syncing, active colors, duplicate icon layers, favorite card interactions, and custom single listing rendering/style compatibility issues.
+
+-- Version 1.0, July 16, 2026
+=====================================
+-- Initial release
