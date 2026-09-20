@@ -1,6 +1,13 @@
 Directorist - Divi Integration
 =====================================
 
+-- Version 1.1.6, September 20, 2026
+=====================================
+-- Added broader Directorist component and extension support for Divi modules.
+-- Improved Listing Image Slider placeholders, responsive layouts, masonry stability, and builder/front-end alignment.
+-- Fixed Listings Card editor state switching so selected modules remain visible when changing directory and view states.
+-- Improved complete-site import URL and module metadata handling.
+
 -- Version 1.1.5, September 13, 2026
 =====================================
 -- Added map height and zoom controls and Business Hours support for Theme Builder.
