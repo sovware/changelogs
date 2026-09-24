@@ -1,5 +1,10 @@
 dList WordPress Theme
 =========================
+Sep 24, 2026 (Version 3.0.10)
+================================================
+--[Fixed] Honor boolean single-post author toggle
+--[Fixed] Improve listing media and blog author visibility
+
 March 03, 2026 (Version 3.0.1)
 ================================================
 --[Fixed] Directorist responsive search form
