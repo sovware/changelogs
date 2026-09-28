@@ -1,6 +1,13 @@
 Directorist - Divi Integration
 =====================================
 
+-- Version 1.1.7, September 28, 2026
+=====================================
+-- Added translatable Homepage Search result routes for integrations.
+-- Added a Divi AI catalog provider for directory modules.
+-- Expanded the Directorist template library and made complete-site imports safer across occupied sites, URLs, and author data.
+-- Improved Listings Favourite Badge styling and Listings Textarea icon controls.
+
 -- Version 1.1.6, September 20, 2026
 =====================================
 -- Added broader Directorist component and extension support for Divi modules.
