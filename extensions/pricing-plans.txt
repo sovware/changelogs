@@ -1,7 +1,18 @@
 Pricing Plans
 =====================================
-Removed: unused files
-Fix: update true fee manager option value
+Version 4.2.0, Sep 30, 2026
+======================================
+Added - Added extensible customer package actions for payment gateways and other integrations
+Added - Added configurable listing priority with migration support for existing priority settings
+Changed - Allowed authorized listing claimers to purchase pricing plans during the claim flow
+Changed - Improved listing priority query performance
+Fixed - Fixed stale orders appearing when switching between packages in the customer dashboard
+Fixed - Exposed plan app configuration values through the REST API
+Fixed - Reported payment gateway errors when subscription cancellation fails
+Fixed - Repaired packages with missing plans or directory types and improved the related administrator notice
+Fixed - Ignored auto-draft directories in package assignment notices
+Fixed - Handled invalid single-listing widgets without triggering errors
+Maintenance - Excluded tests from text-domain rewriting during release builds
 
 Version 4.1.1, Sep 8, 2026
 ======================================
