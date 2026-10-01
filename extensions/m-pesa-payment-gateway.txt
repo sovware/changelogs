@@ -1,5 +1,9 @@
 Directorist - M-Pesa Payment Gateway
 =====================================
+-- Version 1.0.1 Oct 1, 2026
+=====================================
+-- Added : License-aware automatic plugin updates through Easy Digital Downloads Software Licensing.
+-- Maintenance : Excluded tests from text-domain validation during release builds.
 
 -- Version 1.0.0, Sep 03, 2026
 =====================================
