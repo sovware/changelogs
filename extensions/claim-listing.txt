@@ -1,5 +1,27 @@
 Claim Listing
 =====================================
+-- Version 2.6.1 , Oct 01 2026
+=====================================
+-- Added : REST API endpoint for submitting listing claims.
+-- Added : Verified claim status to Directorist v1 and v2 listing REST API responses.
+-- Added : Pricing Plans 4 compatibility with package-based plan selection and the current order system.
+-- Added : Checkout authorization for users with a matching pending listing claim.
+-- Changed : Claim payment handling for free, static-fee, and pricing-plan claim flows.
+-- Changed : Automatically approve paid pricing-plan claims, transfer listing ownership, publish the listing, apply eligible featured status, and send the approval notification.
+-- Changed : Converted approved claimants to Directorist author accounts.
+-- Changed : Added a compatibility guard and administrator notice when the active Directorist version is below 8.8.0.
+-- Changed : Updated notification defaults and migrated saved notification settings for existing sites.
+-- Fix : Claim submissions when the layout block and sidebar widget render duplicate claim forms.
+-- Fix : Preserved the active claim form and its inputs when validation fails.
+-- Fix : Claim subtotal row in checkout.
+-- Fix : Pricing-plan checkout and plan assignment issues during claim submission.
+-- Fix : New, approved, and declined claim email notifications.
+-- Fix : Paid claims remaining pending after successful payment.
+-- Fix : Stale pricing-plan settings blocking non-paid claims when Pricing Plans is inactive.
+-- Fix : Claimed badge visibility when the claim feature is disabled for a pricing plan.
+-- Fix : Pricing Plans class errors when the extension is inactive.
+-- Fix : Claimed badge tooltip grammar.
+-- Maintenance : Updated the plugin and translation catalog metadata for the 2.6.1 release.
 
 -- Version 1.5.8 Sep 15, 2024
 =====================================
