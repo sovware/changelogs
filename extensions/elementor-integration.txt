@@ -1,0 +1,7 @@
+Directorist - Elementor Integration
+
+=====================================
+
+-- Version 1.0.0, Oct 06, 2026
+=====================================
+-- Initial Release
