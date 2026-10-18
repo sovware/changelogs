@@ -1,6 +1,11 @@
 Oxygen Builder Integration
 =====================================
 
+-- Version 2.0.11, October 18, 2026
+=====================================
+-- Added native Directorist elements and controls for Oxygen 6
+-- Fixed Directorist asset loading and Single Details styles in the Oxygen 6 builder
+
 -- Version 1.1.0, October 12, 2022
 =====================================
 -- Custom single listing template compatibility
