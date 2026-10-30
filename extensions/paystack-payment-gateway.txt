@@ -1,0 +1,7 @@
+Directorist - Paystack Payment Gateway
+
+=====================================
+
+-- Version 1.0.0, Oct 29, 2026
+=====================================
+-- Initial Release

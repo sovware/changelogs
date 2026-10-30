@@ -1,0 +1,6 @@
+dTour WordPress Gutenberg Theme
+=========================
+
+-- Oct 02, 2026 - v1.0.0
+=============================
+-- Initial release
