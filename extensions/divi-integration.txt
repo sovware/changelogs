@@ -1,6 +1,12 @@
 Directorist - Divi Integration
 =====================================
 
+-- Version 1.1.9, November 1, 2026
+=====================================
+-- Fixed single-listing Back navigation and login feedback when saving listings.
+-- Added independent responsive width, height, and automatic sizing for Featured and Popular badges.
+-- Fixed saved module styles not appearing consistently on the frontend.
+
 -- Version 1.1.7, September 28, 2026
 =====================================
 -- Added translatable Homepage Search result routes for integrations.
