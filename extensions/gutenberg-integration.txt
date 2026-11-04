@@ -2,6 +2,81 @@ Directorist - Gutenberg Integration
 
 =====================================
 
+-- Version 1.0.1, Nov 04, 2026
+=====================================
+-- Added: Responsive Grid and Slider modes for Listings Loop, including mobile-only carousels.
+-- Added: Per-device Grid and Slider modes for All Categories and All Locations.
+-- Added: In-flow placement for Pricing Plan Recommended Badges and separate text colors for available and unavailable features.
+-- Added: Author membership date, Instagram and native author messaging controls.
+-- Added: Native sidebar filter presentations and collapsible filter sections.
+-- Added: Label-first Location Count formatting, such as Cars (10).
+-- Added: Before/after navigation placement, responsive spacing and location-term filtering for All Locations.
+-- Added: Friendly color-name display options for Color Picker fields.
+-- Added: Responsive map canvas height and zoom-control styling for Listings Loop map views.
+-- Added: Single-star summary display for Listing Card Ratings.
+-- Added: Synchronized category showcases with thumbnail navigation.
+-- Added: Per-device Listing Images Slider layouts, including hero images and thumbnail strips.
+-- Added: Apply-button visibility controls for instant-search filters.
+-- Added: Per-device Grid and Slider modes and slider row controls for Related Listings.
+-- Added: Responsive Auto, Fixed and Fill sizing for single listing action buttons.
+-- Added: Responsive column and item-width controls for Single Listing Amenities.
+-- Added: Responsive Gallery Fields columns, item spans and image heights.
+-- Added: Responsive author avatar sizing and separate statistics value/label layouts.
+-- Added: Responsive inner gutter controls for Listings Loop layouts.
+-- Added: Responsive Listings Header rows, control ordering, spacing and Filter-button visibility.
+-- Added: Native icon selection and independent icon sizing for search action buttons.
+-- Added: Responsive width and fill controls for Search and More Filters buttons.
+-- Added: Hover/focus-only navigation visibility for Listing Images Slider.
+-- Added: Native search placeholder, date indicator and compact field sizing controls.
+-- Added: Per-loop pagination toggles for Listings Loop and Homepage Search Loop.
+-- Added: Responsive Listing Images Slider height, image-fit controls and composable card overlays.
+-- Improved: Advanced Review compatibility with native Listing Review design controls.
+-- Improved: Floating Listings Filters with configurable tablet breakpoints and collapsed sidebar spacing.
+-- Fixed: Legacy Pricing Plans styles overriding native feature alignment, spacing and badge placement.
+-- Fixed: Custom date empty labels becoming transparent under Core floating-caption styles.
+-- Fixed: Mobile Fill sizing leaving Save, Share and Report buttons at unequal widths.
+-- Fixed: Listings Header Count First stacking mobile controls instead of using the intended two-row layout.
+-- Fixed: Text-only Location cards inheriting image-mode styling from unused thumbnail metadata.
+-- Fixed: Saved single listing preview selections leaking into frontend data and Related Listings pagination losing its composition.
+-- Fixed: AJAX Grid/List switching dropping native Group and Stack layout styles.
+-- Fixed: Unwanted inner container spacing in the default Listings Loop grid.
+-- Fixed: Author Profile review counts displaying the number of rated listings instead of approved reviews.
+-- Fixed: Featured listing cards failing to apply their configured border and highlight styles.
+-- Fixed: Listings Header count typography and Sort-button styles being overridden by Core CSS.
+-- Fixed: Conflicting category carousel initializers blocking drag and swipe interactions.
+-- Fixed: Location Card Button font-weight settings not reaching the clickable link.
+-- Fixed: Contact Listing Owner heading alignment not positioning its icon and title correctly.
+-- Fixed: AJAX pagination losing canonical links and accessible names for navigation arrows.
+-- Fixed: Listing Card Thumbnail overlays preventing clicks on the image permalink.
+-- Fixed: Composed Category image cards retaining unwanted legacy overlays and content insets.
+-- Fixed: Core navigation styles overriding Directory Types padding, typography and active colors.
+-- Fixed: Custom Text field mobile styles not applying on the frontend.
+-- Fixed: Single Listing Tag icon colors and sizes not matching native settings.
+-- Fixed: Map popup styles overriding configured Post Title link colors.
+-- Fixed: Map popup media resets overriding Listing Images Slider height.
+-- Fixed: Homepage Search AJAX refresh losing the configured result-count label.
+-- Fixed: Homepage Search AJAX filtering retaining obsolete pagination for single or empty results.
+-- Fixed: Failed Listings Loop AJAX requests silently leaving stale results without error feedback or retry controls.
+-- Fixed: Native single listing templates omitting Continue and Edit actions after Save & Preview.
+-- Fixed: Single Listing Map ignoring configured mobile heights below 320px.
+-- Fixed: Related Listings arrows overlapping card overlays and horizontal padding exposing adjacent slides.
+-- Fixed: Native listing link colors changing incorrectly after AJAX Grid/List switching.
+-- Fixed: Composed Location background cards overflowing configured grid row heights.
+-- Fixed: Configured Author Profile pages missing the correct native editor context.
+-- Fixed: Favorite tooltips being clipped inside Listing Images Slider overlays.
+-- Fixed: More Filters pricing Min/Max inputs collapsing to zero width.
+-- Fixed: More Filters field wrappers producing duplicate dividers and unnecessary empty spacing.
+-- Fixed: Author Profile blocks appearing as unsupported in the Site Editor.
+-- Fixed: Bookmark buttons failing to display saved-state colors, labels and accessible pressed states.
+-- Fixed: Core CSS overriding native More Filters button backgrounds, borders, padding and sizing.
+-- Fixed: All Categories and All Locations editor previews showing incorrect terms, images, gradients and card layouts.
+-- Fixed: Saved Location Count typography missing from frontend output.
+-- Fixed: Core CSS overriding full-height gradients on composed Location cards.
+-- Fixed: Filtered Listings Loop pagination returning zero results until a page reload.
+-- Compatibility: Corrected Popular listing minimum-rating filtering through the companion Directorist Core update.
+-- Compatibility: Prevented missing directory configuration from breaking Add Listing plan selection through the companion Pricing Plans update.
+-- Compatibility: Restored keyboard and assistive-technology access to authentication consent controls through the companion Directorist Core update.
+
 -- Version 1.0.0, Oct 06, 2026
 =====================================
 -- Initial Release
