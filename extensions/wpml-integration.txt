@@ -1,6 +1,18 @@
 WPML Integration
 =====================================
 
+-- Version 2.2.4, Nov 05, 2026
+=====================================
+-- Fix : Pricing-plan links and Divi Homepage Search routing on translated pages.
+-- Fix : Translated category and location filter URLs across WPML language formats.
+-- Fix : PHP warnings from nested directory attributes.
+-- Fix : Legacy Directory Builder fields appearing in listing ATE jobs.
+-- Fix : Translated section headings and directory metadata with legacy key casing.
+-- Improve : WPML directory query performance.
+-- Add : Filter to independently disable listing query filtering.
+-- Maintenance : Removed test directory from plugin repository.
+-- Note : Refresh legacy listing translation jobs and translate directory labels through the Directory Builder package.
+
 -- Version 0.1.2, Jun 07, 2022
 =====================================
 -- Add - Missing xml file

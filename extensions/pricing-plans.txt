@@ -1,5 +1,19 @@
 Pricing Plans
 =====================================
+
+-- Version 4.3.0, Nov 04, 2026
+=====================================
+-- Add : Directorist MCP integration for browsing and managing plans, viewing packages, and assigning or renewing listing plans.
+-- Add : Support for Apple in-app purchases in Pricing Plans.
+-- Add : Filter for integrations to customize existing package lookup during plan activation.
+-- Update : Minimum supported Directorist version to 8.11.
+-- Improve : Limited dashboard assets to pages where the listing owner dashboard needs them.
+-- Fix : Pricing plan image limits when creating or editing listings.
+-- Fix : Hidden packages availability during listing plan selection and zero-cost orders for free plans.
+-- Fix : Directory navigation for directory types without icon metadata and plan selection with numeric directory IDs.
+-- Fix : Package dashboard empty-state message translation.
+-- Maintenance : Refreshed Composer dependencies and translation catalog.
+
 Version 4.2.0, Sep 30, 2026
 ======================================
 Added - Added extensible customer package actions for payment gateways and other integrations

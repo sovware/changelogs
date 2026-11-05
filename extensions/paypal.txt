@@ -1,6 +1,14 @@
 PayPal Payment Gateway
 =====================================
 
+-- Version 3.0.2
+=====================================
+-- Update : Minimum required Directorist version to 8.11.0.
+-- Improve : Admin notice when Directorist is inactive, outdated, or missing required payment APIs.
+-- Improve : Webhook registration and removal using the shared Directorist settings action with inline feedback.
+-- Fix : Restored verified legacy PayPal IPNs for pre-v3 payments and subscriptions, including migrated order/package links and duplicate-safe renewal and listing updates.
+-- Fix : Preserved legacy calendar billing periods, site timezones, original subscription intervals, and cancellation state during renewal reconciliation.
+
 -- Version 1.4.2, Oct 03, 2022
 =====================================
 -- Add: Icon Compatibility issue with directorist

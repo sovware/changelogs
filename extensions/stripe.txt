@@ -1,8 +1,13 @@
 Stripe Payment Gateway
 =====================================
 
--- Version 3.0.1, Sep 10, 2026
+-- Version 3.0.3
+=====================================
+-- Update : Minimum required Directorist version to 8.11.0.
+-- Improve : Webhook registration and removal using the shared Directorist settings action with inline feedback.
 
+-- Version 3.0.1, Sep 10, 2026
+=====================================
 -- Add : Recovery for paid Stripe subscription invoices when renewal webhooks are delayed or missed.
 -- Add : Restored the legacy subscription update webhook endpoint for subscriptions created before migration.
 -- Add : A webhook-received action for integrations that need to observe Stripe events.
