@@ -1,5 +1,12 @@
 WooCommerce Pricing Plans
 =====================================
+Version 3.7.3, Nov 10, 2026
+Fix: Recurring subscription purchases storing a subscription product ID instead of the linked Directorist pricing plan on listings, while preserving WooCommerce order and subscription metadata.
+Fix: Completed purchases not consistently applying the purchased pricing plan to a listing, including when changing from an older plan.
+Add: Administrator notice and repair action for incorrect subscription-product plan references, including rejected listings, without modifying WooCommerce subscriptions.
+Fix: Restore the Packages tab, Order History tab, and Plan Change link settings under the pricing plan settings.
+Fix: Dashboard listing plan actions ignoring Display Plan Change Link, while preserving renewal actions for expired listings.
+
 Version 3.6.3, Nov 4, 2025
 Fix: Improved notice HPOS compability
 
