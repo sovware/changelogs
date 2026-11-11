@@ -1,5 +1,11 @@
 Claim Listing
 =====================================
+-- Version 2.6.2, Nov 11, 2026
+=====================================
+-- Add: Claim Listing MCP operations and settings access, plus a reusable claim form helper.
+-- Change: Use the same claim processing for native, REST API, and MCP entry points and reuse the form helper across directory types.
+-- Fix: Show a compatibility notice on older Core versions to prevent a fatal error when saving a listing. Claim Listing 2.6.2 requires Directorist 8.11 or later.
+
 -- Version 2.6.1 , Oct 01 2026
 =====================================
 -- Added : REST API endpoint for submitting listing claims.

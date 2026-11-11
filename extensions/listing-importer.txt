@@ -1,6 +1,12 @@
 Directorist - Listing Importer
 =====================================
 
+-- Version 1.1.1, Nov 11, 2026
+=====================================
+-- Add: 27 MCP tools for Google Business and RSS/Feed import workflows.
+-- Compatibility: Most MCP tools work on Directorist 8.11–8.11.2. Saving settings through MCP and some listing image imports require Directorist 8.11.3 or later.
+-- Compatibility: Native import screens remain available when MCP requires a Core update. Queued imports stay saved. Requires WordPress 5.8 and PHP 7.4 or later.
+
 -- Version 1.0.0, May 15, 2026
 =====================================
 -- Initial Release

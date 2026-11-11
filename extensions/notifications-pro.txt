@@ -1,6 +1,12 @@
 Directorist - Notifications Pro
 =====================================
 
+-- Version 1.0.1, November 11, 2026
+=====================================
+-- Add: MCP tools for preferences, own-device subscriptions, delivery reports, previews, and administrator self-tests.
+-- Add: Notifications Pro settings through the Core MCP settings tools.
+-- Fix: Apply shared web push template validation and preserve listing-owner and listing-title context when a listing is permanently deleted.
+
 -- Version 1.0.0, July 13, 2026
 =====================================
 -- Initial Release

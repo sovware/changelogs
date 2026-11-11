@@ -1,6 +1,13 @@
 Directorist Coupon
 =====================================
 
+-- Version 2.5.1, Nov 11, 2026
+=====================================
+-- Add: MCP tools for coupon discovery, configuration, validation, usage, and recoverable management actions.
+-- Change: Use shared coupon validation with final-use revalidation and rate limiting. Update integration with the current Directorist and Pricing Plans payment system.
+-- Fix: Correct fully discounted orders and claim checkout totals, address activation and license issues, and restore the Coupon enable control.
+-- Compatibility: Coupon 2.5.1 requires Directorist 8.8.0 or later.
+
 -- Version 2.4, February 05, 2026
 =====================================
 -- Fixed: decimal number issue

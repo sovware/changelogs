@@ -1,6 +1,12 @@
 Directorist Ads Manager
 =====================================
 
+-- Version 2.3.1, Nov 11, 2026
+=====================================
+-- Add: MCP tools to discover placements and manage image adverts, including status changes, trash, and restore.
+-- Add: Shared image advert operations and placement discovery.
+-- Add: Public ads REST API with platform filtering and extensible advert queries.
+
 -- Version 1.1.5, Oct 17, 2022
 =====================================
 -- Improve - Ads image quality

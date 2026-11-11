@@ -1,6 +1,14 @@
 Directorist - Analytics
 =====================================
 
+-- Version 1.0.1, Nov 11, 2026
+=====================================
+-- Add: Analytics dashboards and reports for listings, traffic sources, devices, authors, and site activity, with date filters and CSV/PDF exports.
+-- Add: Privacy-safe MCP reports and administrator access to dashboard analytics through MCP.
+-- Add: License and update integration.
+-- Fix: Remove duplicate final entries in grouped weekly and monthly reports. Improve referral reports, pagination, and responsive layouts.
+-- Compatibility: Requires WordPress 6.7 and PHP 7.4 or later.
+
 -- Version 1.0.0, Nov 13, 2025
 =====================================
 -- Initial Release

@@ -1,6 +1,13 @@
 Booking (Reservation & Appointment)
 =====================================
 
+-- Version 3.1.2, Nov 11, 2026
+=====================================
+-- Add: Booking MCP tools for queries, quotes, settings, and booking operations.
+-- Change: Calculate booking commissions after coupon discounts and skip listing scans when no booking filters are requested.
+-- Fix: Send booking notifications to the client contact entered on the booking and replace refund amount placeholders in booking emails.
+-- Fix: Use the native currency fallback for MCP quotes and resolve a single default booking type for public forms.
+
 -- Version 1.6.2, Oct 03, 2022
 =====================================
 -- Add : Icon Compatibility issue with directorist
