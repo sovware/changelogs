@@ -1,0 +1,9 @@
+dCarList WordPress Gutenberg Theme
+=========================
+
+-- Nov 11, 2026 - v0.1.4-dev (Development prerelease)
+==================================================
+-- Renamed the parent and child themes to dCarList and synchronized the automotive demo.
+-- Updated demo import so Site Editor templates and template parts are associated with the dCarList stylesheet.
+-- Optimized bundled images while preserving existing demo media references.
+-- Refined the Theme Setup workflow and import recovery.
