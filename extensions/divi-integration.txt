@@ -1,6 +1,12 @@
 Directorist - Divi Integration
 =====================================
 
+-- Version 1.1.10, November 12, 2026
+=====================================
+-- Added Directorist AI page composition and responsive editing for selected Divi content.
+-- Preserved unrelated content, directory queries, and styles when applying or saving AI edits in Divi.
+-- Included the Divi editor resources required for AI authoring and aligned the plugin's release metadata.
+
 -- Version 1.1.9, November 1, 2026
 =====================================
 -- Fixed single-listing Back navigation and login feedback when saving listings.
