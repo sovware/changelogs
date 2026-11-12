@@ -2,6 +2,11 @@ Directorist - Elementor Integration
 
 =====================================
 
+-- Version 1.0.2, Nov 12, 2026
+=====================================
+-- Added optional Directorist AI page composition and contextual editing in Elementor.
+-- Updated plugin requirements and update metadata.
+
 -- Version 1.0.0, Oct 06, 2026
 =====================================
 -- Initial Release
