@@ -2,6 +2,11 @@ Directorist - Gutenberg Integration
 
 =====================================
 
+-- Version 1.0.2, Nov 12, 2026
+=====================================
+-- Added: Optional Directorist AI page composition and contextual editing in Gutenberg.
+-- Updated: Plugin requirements and metadata for automatic updates.
+
 -- Version 1.0.1, Nov 04, 2026
 =====================================
 -- Added: Responsive Grid and Slider modes for Listings Loop, including mobile-only carousels.
