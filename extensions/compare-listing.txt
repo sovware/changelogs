@@ -1,6 +1,10 @@
 Compare Listings
 =====================================
 
+-- Version 2.2.1, Nov 12, 2026
+=====================================
+-- Fix: Skip action button fields such as Purchase Link in comparison tables to prevent PHP array-to-string warnings when a button stores both a label and a URL.
+
 -- Version 1.1.5, Oct 03, 2022
 =====================================
 -- Add : Icon Compatibility issue with directorist
