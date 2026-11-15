@@ -1,6 +1,15 @@
 dCarList WordPress Gutenberg Theme
 =========================
 
+-- Nov 15, 2026 - v1.0.0
+==================================================
+-- Added seven editable footer pages for support, financing, careers, press, privacy, terms, and cookies.
+-- Added the Volkswagen Golf rental listing and bundled Lifetime access for sites with Directorist Pricing Plans active.
+-- The homepage All cars tab now shows eight listing cards with one optimized thumbnail each.
+-- Refined the homepage call-to-action spacing, listing badges, and search submit button.
+-- Fixed footer links to resolve to the pages created by the demo importer.
+-- Reused the untouched WordPress Privacy Policy draft in Update imports and preserved shared Lifetime access when moving a demo listing between directories.
+
 -- Nov 11, 2026 - v0.1.4-dev (Development prerelease)
 ==================================================
 -- Renamed the parent and child themes to dCarList and synchronized the automotive demo.
