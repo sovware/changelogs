@@ -1,6 +1,14 @@
 Listings with Map
 =====================================
 
+-- Version 2.4, November 16, 2026
+=====================================
+-- Add: Optional synchronization of listings with the visible map area, with marker scope and click-to-page navigation.
+-- Fix: Restore the Radius slider after a search and preserve the selected distance range and location.
+-- Fix: Apply radius bounds and units consistently, including zero-based ranges on PHP 7.4.
+-- Fix: Clear stale markers when a search returns no listings and preserve active filters across pagination.
+-- Note: Viewport synchronization uses the map bridge introduced in Directorist Core 8.9 and is off by default.
+
 -- Version 1.6.4, Oct 03, 2022
 =====================================
 -- Add : Icon Compatibility issue with directorist
