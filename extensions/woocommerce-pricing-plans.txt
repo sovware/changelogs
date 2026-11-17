@@ -1,5 +1,14 @@
 WooCommerce Pricing Plans
 =====================================
+Version 3.7.4, Nov 17, 2026
+Add: Support for WooCommerce subscription schemes on simple products and for verified Apple in-app purchases.
+Improve: The dashboard Submit Listing button opens the listing form for customers with an eligible paid order or unused package allowance, including zero-cost trials.
+Fix: Publish listings for paid WooCommerce orders and active subscriptions. Paid claim orders still go through moderation.
+Fix: Keep the existing paid listing plan when a subscription replacement or Apple purchase is pending or fails. Legacy renewals and reactivations retain the originally purchased plan after a product is relinked.
+Add: Record the purchased plan type on new orders and update historical orders in the background.
+Fix: Preserve listing expiry and featured status during admin edits, and correct redirects after zero-total checkout.
+Compatibility: Requires Directorist 8.8.0 or later. Subscription schemes on simple products require WooCommerce Subscriptions and All Products for WooCommerce Subscriptions.
+
 Version 3.7.3, Nov 10, 2026
 Fix: Recurring subscription purchases storing a subscription product ID instead of the linked Directorist pricing plan on listings, while preserving WooCommerce order and subscription metadata.
 Fix: Completed purchases not consistently applying the purchased pricing plan to a listing, including when changing from an older plan.
