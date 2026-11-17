@@ -5,6 +5,7 @@ dCarList WordPress Gutenberg Theme
 ==================================================
 -- Match the vehicle cards on Compare Cars to the All Listings design using native Directorist blocks.
 -- Show the Compare action beside Favorite on those cards when Directorist Compare Listings is active.
+-- Use the lowercase dcarlist folder for new installs. Existing sites can migrate using the same-version steps in the parent readme to retain their Site Editor designs.
 
 -- Nov 15, 2026 - v1.0.0
 ==================================================
