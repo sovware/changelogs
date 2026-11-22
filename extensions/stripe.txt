@@ -1,6 +1,11 @@
 Stripe Payment Gateway
 =====================================
 
+-- Version 3.0.4, Nov 22, 2026
+=====================================
+-- Security : Verify Stripe signatures and test/live mode before dispatching current and legacy webhook events. Require a separately configured signing secret for each active legacy endpoint.
+-- Security : Escape update notifications and sanitize changelog request inputs and displayed HTML.
+
 -- Version 3.0.3
 =====================================
 -- Update : Minimum required Directorist version to 8.11.0.
