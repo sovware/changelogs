@@ -1,6 +1,13 @@
 dTour WordPress Gutenberg Theme
 =========================
 
+-- Nov 22, 2026 - v1.0.1
+=============================
+-- Improved homepage loading by replacing the embedded YouTube player with a lightweight AVIF cover image and a play link.
+-- Improved the default homepage by skipping unused map, booking, business hours, and gallery assets while keeping the tour sliders functional.
+-- Fixed a Gutenberg block recovery warning when editing the homepage video section or the reusable Home Video pattern.
+-- Updated the bundled demo so new imports include the optimized homepage and corrected video pattern.
+
 -- Oct 02, 2026 - v1.0.0
 =============================
 -- Initial release
