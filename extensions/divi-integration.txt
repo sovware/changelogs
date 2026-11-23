@@ -1,6 +1,19 @@
 Directorist - Divi Integration
 =====================================
 
+-- Version 1.1.11, November 23, 2026
+=====================================
+-- Enable Directorist AI layout generation and contextual editing across Divi 5.x. Read available row presets from the installed Divi editor.
+-- Download and install Divi layout packages in resumable steps. Show the active step, download progress, and the import report in the admin dialog.
+-- Expand Homepage Search and archive filter controls with responsive layouts, editable field labels, button styling and location-linked distance filters.
+-- Keep Homepage Search result pages separate in the cache. Preserve child styles and listing-card layouts across directory switches, filtered results and empty searches.
+-- Stop using the deprecated Directorist listings query hook while preserving archive visibility rules.
+-- Expand archive toolbar, category chip, listing type and pagination controls. Preserve native settings for each archive view.
+-- Add responsive Category Showcase navigation and a separate thumbnail rail with live counts. Extend All Locations and Author Profile styling controls.
+-- Add more design controls for listing maps, galleries, related listings, ratings and native card text. Improve responsive card styles and gallery interactions.
+-- Add native Advanced Review summary layouts and optional Positive and Critical filters. Render listing-specific FAQs through the compatible extension.
+-- Apply coordinated Directorist AI style edits to headings, search controls and listing cards without replacing unrelated native settings.
+
 -- Version 1.1.10, November 12, 2026
 =====================================
 -- Added Directorist AI page composition and responsive editing for selected Divi content.
