@@ -1,6 +1,14 @@
 Directorist - AI Search
 =====================================
 
+-- Version 1.1.2, Nov 24, 2026
+=====================================
+-- Add: AI-powered semantic ranking to the Directorist V2 listings REST API while preserving native keyword search as a fallback when the AI service is unavailable or returns no matches.
+-- Change: Preserve directory, taxonomy, metadata, location, rating, custom-field, and integration-added filters when ranking V2 API results, without sending a redundant allowed_ids list for unfiltered searches.
+-- Fix: Restrict filtered ID resolution to Directorist listings and keep private or administrative REST collection searches on Directorist's native query and permission path.
+-- Fix: Restore the complete autocomplete result row as a clickable link and improve display of encoded characters in suggestion labels.
+-- Add: Native WordPress update support through Directorist account licenses using the dedicated AI Search product and update endpoint.
+
 -- Version 1.0.0, May 21, 2026
 =====================================
 -- Initial Release
