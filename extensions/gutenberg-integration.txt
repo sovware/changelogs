@@ -2,6 +2,17 @@ Directorist - Gutenberg Integration
 
 =====================================
 
+-- Version 1.0.3, Nov 24, 2026
+=====================================
+-- Fixed: Imported WordPress starter pages now use the destination dashboard link and website address.
+-- Added: Optional specialty grouping for Homepage Search results, with a unique overall listing total and one shared pagination control.
+-- Added: Booking appointment availability in compatible search forms. Improved search field labels, filter layouts, location inputs and directory tab styles.
+-- Improved: All Categories and All Locations with curated term selections, responsive showcase navigation and improved count presentation.
+-- Added: Responsive Listings Header icon controls, horizontal Group layouts and Author Profile Button sizing. Preserved Filter button styling when header controls are reordered.
+-- Improved: Single-listing gallery and Related Listings rendering, with customizable listing-card rating and favorite icons.
+-- Improved: Coordinated Directorist AI edits to headings, search controls and listing cards while preserving unrelated content and native undo.
+-- Improved: Listing Card Template preview switching and packaged editor asset verification against the reviewed build.
+
 -- Version 1.0.2, Nov 12, 2026
 =====================================
 -- Added: Optional Directorist AI page composition and contextual editing in Gutenberg.
