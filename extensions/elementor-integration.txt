@@ -2,6 +2,17 @@ Directorist - Elementor Integration
 
 =====================================
 
+-- Version 1.0.4, Nov 24, 2026
+=====================================
+-- Report unavailable custom post types only when the kit contains content for them or has no explicit inventory.
+-- Keep numbered Listings Loop results in sync with the browser URL, including reloads and Back/Forward. Leave independent loops on the same page unaffected.
+-- Open the Author Profile base page in its own Elementor preview without changing the public author archive. Match the Single Listing preview header and footer to the selected listing.
+-- Keep both side cards visible when a Term Showcase loops or changes categories. Improve dragging, transitions and responsive preview behavior.
+-- Add responsive Review aggregate alignment, an optional listing-wide count badge, and independent review typography and filter styles. Improve Advanced Review previews in the editor.
+-- Expand native filter panel, results grouping, map action, photo button, FAQ and preset-field styling controls.
+-- Preserve the chosen listing view and search values during AJAX updates. Retain uploaded SVG toolbar colors or opt into the toolbar color.
+-- Apply coordinated Directorist AI style changes to headings, buttons and listing cards, including eligible controls that still use native defaults. Preserve existing widget selections and dynamic bindings.
+
 -- Version 1.0.2, Nov 12, 2026
 =====================================
 -- Added optional Directorist AI page composition and contextual editing in Elementor.
