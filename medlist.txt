@@ -1,3 +1,9 @@
+= 0.1.1-dev - November 25, 2026 =
+* Restored free lifetime demo pricing access for all nine bundled doctors.
+* Preserved original demo access when listings are duplicated.
+* Consolidated the import notice when optional Pricing Plans support is unavailable.
+* Added the separate dMedList Child 0.1.1 installer.
+
 = 0.1.0-dev - November 25, 2026 =
 * Added: Initial dMedList development theme with native Gutenberg and Directorist layouts.
 * Added: Portable doctor listings, specialties, locations, forms and pricing pages.
