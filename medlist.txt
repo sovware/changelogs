@@ -1,0 +1,7 @@
+= 0.1.0-dev - November 25, 2026 =
+* Added: Initial dMedList development theme with native Gutenberg and Directorist layouts.
+* Added: Portable doctor listings, specialties, locations, forms and pricing pages.
+* Improved: Ownership-aware demo import settings, repeat-import behavior and fresh-site routing.
+* Improved: Shared listing cards, category hover styling and homepage listing visibility.
+* Improved: Guarded homepage asset loading, compressed images and duplicate-image removal.
+* Added: Directorist Account licensing and theme updates for product 373510.
